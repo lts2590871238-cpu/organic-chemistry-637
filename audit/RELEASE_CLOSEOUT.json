@@ -1,0 +1,43 @@
+{
+  "at": "2026-10-24T22:33:57.216649+08:00",
+  "user_requested_sealing": true,
+  "engineering_release_accepted": true,
+  "automation_deleted": true,
+  "remote_published_by_agent": false,
+  "archive": "封存交付/organic-chemistry-637_20261024_封存.zip",
+  "deployment": "GitHub Pages: main /docs",
+  "checks": "RELEASE_STATIC_CHECKS.json",
+  "pdfs": "PDF_PREFLIGHT.json",
+  "chemical_acceptance_unchanged": true,
+  "known_limits": "../封存交付说明.md",
+  "last_targeted_fix": {
+    "at": "2026-10-24T22:33:57.216649+08:00",
+    "scope": "仅D10—15编排、D16/17未核分值提示、D08/09分节进度",
+    "report": "最后定点修复报告.md",
+    "checks_passed": 23,
+    "scores": {
+      "2022": {
+        "known": 110,
+        "unallocated": 40,
+        "unknown_parents": 5
+      },
+      "2023": {
+        "known": 146,
+        "unallocated": 4,
+        "unknown_parents": 2
+      }
+    },
+    "protected_files_hash_matched": 2117,
+    "same_2013_2020_parent_set": 324,
+    "new_day_counts": [
+      66,
+      64,
+      59,
+      60,
+      37,
+      38
+    ],
+    "research_workspace_modified": false,
+    "reference_modified": false
+  }
+}

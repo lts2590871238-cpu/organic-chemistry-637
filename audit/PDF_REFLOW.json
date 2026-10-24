@@ -1,0 +1,51 @@
+{
+  "records": [
+    {
+      "paper": "A",
+      "source_tex_sha256": "3a0b1977c226aea74f1ff3dd2e57aafebe1c4647bfd7887749850ce00380a2e0",
+      "old_pages": 50,
+      "new_pages": 45,
+      "old_pdf_sha256": "092ed8e4019756857ca9c9074ba86de1f113589ca40393aa1d4427050753e2d8",
+      "new_pdf_sha256": "c9ca1ad9fdbf3841f5477932d8064866607025ddb8b514dadb597f059ddda731",
+      "all_extracted_non_pagenumber_glyphs_preserved": true,
+      "reading_order_identical": true,
+      "short_text_only_pages": [],
+      "output": "D:\\桌面\\637有机化学21天刷题站\\.cache\\mock-pdf-reflow\\A\\mock-A-solutions.pdf",
+      "installed": true,
+      "visual_overview_reviewed": true,
+      "short_tail_pages_resolved": true
+    },
+    {
+      "paper": "B",
+      "source_tex_sha256": "532af5e787dbb031577293b6a509d588f2c7e4aff3b8384d2e0ae3aa039ca8c8",
+      "old_pages": 54,
+      "new_pages": 49,
+      "old_pdf_sha256": "14a0d886703aae9605b8095813fa8ccd4f3f9e8b495714c5f56f62397d7a96c1",
+      "new_pdf_sha256": "fed013113b1b1ea403253d3f9d835a8ef9983c5ca23950a8a21a2af425300842",
+      "all_extracted_non_pagenumber_glyphs_preserved": true,
+      "reading_order_identical": true,
+      "short_text_only_pages": [],
+      "output": "D:\\桌面\\637有机化学21天刷题站\\.cache\\mock-pdf-reflow\\B\\mock-B-solutions.pdf",
+      "installed": true,
+      "visual_overview_reviewed": true,
+      "short_tail_pages_resolved": true
+    },
+    {
+      "paper": "C",
+      "source_tex_sha256": "4621b7dd7cc7713b91335193e092b73fa502e360e3e07578531433fa0939a6fc",
+      "old_pages": 59,
+      "new_pages": 49,
+      "old_pdf_sha256": "dfcd49736fa737c8a079c3fcdac04c490ddadd8cf0155d06e4eabb59fe26d693",
+      "new_pdf_sha256": "d5998332dcc0c258808b63c461cf75e856ebdfba3a2afa3c2469ecae0e4a4d85",
+      "all_extracted_non_pagenumber_glyphs_preserved": true,
+      "reading_order_identical": true,
+      "short_text_only_pages": [],
+      "output": "D:\\桌面\\637有机化学21天刷题站\\.cache\\mock-pdf-reflow\\C\\mock-C-solutions.pdf",
+      "installed": true,
+      "visual_overview_reviewed": true,
+      "short_tail_pages_resolved": true
+    }
+  ],
+  "scope": "分页版面修复验收；三份原文非页码字符及读取顺序保留，整卷总览检查完成，B4及C44/48/49放大检查。不是新的逐题化学终验。",
+  "visual_accepted": true
+}

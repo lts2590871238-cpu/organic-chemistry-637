@@ -1,0 +1,150 @@
+{
+  "2023": {
+    "verified_blank_parents": [
+      {
+        "id": "2023-S02-Q01",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 95
+      },
+      {
+        "id": "2023-S02-Q03",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 95
+      },
+      {
+        "id": "2023-S02-Q04",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 95
+      },
+      {
+        "id": "2023-S02-Q05",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 95
+      },
+      {
+        "id": "2023-S02-Q06",
+        "blank_count": 2,
+        "points": 2,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q08",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q09",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q10",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q11",
+        "blank_count": 2,
+        "points": 2,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q12",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q13",
+        "blank_count": 2,
+        "points": 2,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q14",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q15",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q16",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q17",
+        "blank_count": 2,
+        "points": 2,
+        "source_printed_page": 96
+      },
+      {
+        "id": "2023-S02-Q18",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 97
+      },
+      {
+        "id": "2023-S02-Q19",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 97
+      },
+      {
+        "id": "2023-S02-Q20",
+        "blank_count": 1,
+        "points": 1,
+        "source_printed_page": 97
+      },
+      {
+        "id": "2023-S02-Q21",
+        "blank_count": 3,
+        "points": 3,
+        "source_printed_page": 97
+      },
+      {
+        "id": "2023-S02-Q22",
+        "blank_count": 2,
+        "points": 2,
+        "source_printed_page": 97
+      }
+    ],
+    "unresolved": [
+      "2023-S02-Q02",
+      "2023-S02-Q07"
+    ],
+    "section_printed_total": 31,
+    "verified_section_points": 27,
+    "reason": "Q02/Q07未标空的箭头节点与作答范围无法唯一对应；不凭合计倒推。",
+    "sources": [
+      "补传扫描_20261016_预览/2023-P02-350.png",
+      "全卷OCR草稿/页图_300dpi/2023/2023-P03_A017.jpg",
+      "全卷OCR草稿/页图_300dpi/2023/2023-P04_A018.jpg"
+    ]
+  },
+  "2022": {
+    "known_points": 110,
+    "unallocated_points": 40,
+    "unresolved": [
+      "2022-S06-Q01",
+      "2022-S06-Q02",
+      "2022-S06-Q03",
+      "2022-S06-Q04",
+      "2022-S06-Q05"
+    ],
+    "reason": "已整理THIRD_ROUND及清晰补传P04/P05未提供五题独立印分；保留未知，不均分。"
+  }
+}

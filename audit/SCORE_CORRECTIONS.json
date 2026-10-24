@@ -1,0 +1,97 @@
+{
+  "scope": "网站计分修正；不改变原题和答案，不提升化学终验",
+  "overrides": {
+    "2023-S03-Q02": {
+      "score": 5,
+      "basis": "题干(1)3分+(2)2分，父题合计5；原迁移误只取首个3分。"
+    },
+    "2023-S02-Q01": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q02": {
+      "score": null,
+      "basis": "分区每空1分共31分，22父题不等于22空。现有题图含隐含空位，未完成逐空对应，不把上游parent_printed_score=1当作每父题分值。"
+    },
+    "2023-S02-Q03": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q04": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q05": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q06": {
+      "score": 2,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q07": {
+      "score": null,
+      "basis": "分区每空1分共31分，22父题不等于22空。现有题图含隐含空位，未完成逐空对应，不把上游parent_printed_score=1当作每父题分值。"
+    },
+    "2023-S02-Q08": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q09": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q10": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q11": {
+      "score": 2,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q12": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q13": {
+      "score": 2,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q14": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q15": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q16": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q17": {
+      "score": 2,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q18": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q19": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q20": {
+      "score": 1,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q21": {
+      "score": 3,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    },
+    "2023-S02-Q22": {
+      "score": 2,
+      "basis": "2023原页二：每空1分；逐空核对独立作答位置，见audit/TARGETED_SCORE_REVIEW.json。"
+    }
+  }
+}

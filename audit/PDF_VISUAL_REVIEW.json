@@ -1,0 +1,156 @@
+{
+  "records": [
+    {
+      "pdf": "mock-A-paper.pdf",
+      "sha256": "abe280e5b05aca8dc2cfe495bef8af64dc70233720f42dec7c9df2ffbc819201",
+      "page_count": 15,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-paper-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-paper-contact-02.png"
+      ],
+      "smallest_long_span_font_size": 9.962639808654785,
+      "detail_page": 12,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-paper-small-type-p12.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    },
+    {
+      "pdf": "mock-A-solutions.pdf",
+      "sha256": "092ed8e4019756857ca9c9074ba86de1f113589ca40393aa1d4427050753e2d8",
+      "page_count": 50,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-contact-02.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-contact-03.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-contact-04.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-contact-05.png"
+      ],
+      "smallest_long_span_font_size": 9.962639808654785,
+      "detail_page": 38,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-A-solutions-small-type-p38.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    },
+    {
+      "pdf": "mock-B-paper.pdf",
+      "sha256": "612fbc92d6c4dcce2c4a1c4f970a06addba7faa90b4a7a3e05eb721656a8d1ef",
+      "page_count": 19,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-paper-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-paper-contact-02.png"
+      ],
+      "smallest_long_span_font_size": 7.970111846923828,
+      "detail_page": 2,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-paper-small-type-p02.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    },
+    {
+      "pdf": "mock-B-solutions.pdf",
+      "sha256": "14a0d886703aae9605b8095813fa8ccd4f3f9e8b495714c5f56f62397d7a96c1",
+      "page_count": 54,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-contact-02.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-contact-03.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-contact-04.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-contact-05.png"
+      ],
+      "smallest_long_span_font_size": 7.970111846923828,
+      "detail_page": 10,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-B-solutions-small-type-p10.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    },
+    {
+      "pdf": "mock-C-paper.pdf",
+      "sha256": "3eddfa106a186ce7d2ee198ebfed320291d8ce4181c2cbd4c5a196d0003eaf32",
+      "page_count": 21,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-paper-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-paper-contact-02.png"
+      ],
+      "smallest_long_span_font_size": 7.970111846923828,
+      "detail_page": 2,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-paper-small-type-p02.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    },
+    {
+      "pdf": "mock-C-solutions.pdf",
+      "sha256": "dfcd49736fa737c8a079c3fcdac04c490ddadd8cf0155d06e4eabb59fe26d693",
+      "page_count": 59,
+      "overview_images": [
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-contact-01.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-contact-02.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-contact-03.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-contact-04.png",
+        "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-contact-05.png"
+      ],
+      "smallest_long_span_font_size": 7.970111846923828,
+      "detail_page": 9,
+      "detail_image": "D:\\桌面\\637有机化学21天刷题站\\.cache\\pdf-layout-review\\mock-C-solutions-small-type-p09.png",
+      "overview_reviewed": true,
+      "detail_reviewed": true,
+      "reviewed_at": "2026-10-24T18:35:46.247253+08:00",
+      "overview_result": "页序和全页总览未发现明显裁切/重叠；非逐字化学复算",
+      "detail_result": "列明的最小长标注页放大可读"
+    }
+  ],
+  "scope": "整卷拼接后的页序/版面总览与最小长标注页放大检查；化学内容复用已有组内审核，不将缩略图视作逐字化学复算。",
+  "whole_paper_final_accepted": false,
+  "layout_followups": [
+    {
+      "pdf": "mock-A-solutions.pdf",
+      "pages": [
+        29,
+        32,
+        34,
+        47,
+        50
+      ],
+      "issue": "部分续页仅剩采分或来源，需合并到前页以改善阅读"
+    },
+    {
+      "pdf": "mock-B-solutions.pdf",
+      "pages": [
+        36,
+        42,
+        51,
+        54
+      ],
+      "issue": "部分续页较空，采分或来源孤立，需调整分页"
+    },
+    {
+      "pdf": "mock-C-solutions.pdf",
+      "pages": [
+        2,
+        6,
+        31,
+        36,
+        38,
+        41,
+        57
+      ],
+      "issue": "采分或短尾段独占续页，需调整分页"
+    }
+  ],
+  "superseded_layout_review": true,
+  "current_layout_report": "PDF_REFLOW.json",
+  "layout_followups_resolved_in_current_layout": true
+}

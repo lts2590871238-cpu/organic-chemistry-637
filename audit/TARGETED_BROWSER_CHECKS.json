@@ -1,0 +1,59 @@
+{
+  "origin": "http://127.0.0.1:3000/ (isolated from user localhost progress)",
+  "D08": {
+    "questions": 90,
+    "sections": {
+      "醛酮": 37,
+      "羧酸及其衍生物": 46,
+      "双官能团": 7
+    },
+    "section_expand_enter": true,
+    "self_assessment_after_reload": "1/90 mastered1 wrong0",
+    "next_unfinished": "2004-S01-Q03 -> 2004-S01-Q09",
+    "method_card_link_visible": true
+  },
+  "D09": {
+    "questions": 93,
+    "sections": {
+      "胺": 42,
+      "杂环": 25,
+      "糖": 5,
+      "氨基酸与肽": 21
+    },
+    "section_expand": true,
+    "wrong_assessment_after_reload": "1/93 mastered0 wrong1"
+  },
+  "D10_D12_D14": {
+    "counts_observed": [
+      66,
+      59,
+      37
+    ],
+    "mixed_types_and_estimated_minutes_visible": true,
+    "navigation_uses_plan_order": true,
+    "desktop_visual_review": true
+  },
+  "D16": {
+    "new_exam_clock": "3:00:00",
+    "before_submit_answer_panels": 0,
+    "draft_reload": "定点验收2022草稿",
+    "known_score_after_manual_grade": "1/110",
+    "unallocated_points": 40,
+    "unscored_assessment": "1/5 wrong1, score unchanged",
+    "assessment_reload_preserved": true
+  },
+  "D17": {
+    "new_exam_clock": "3:00:00",
+    "before_submit_answer_panels": 0,
+    "draft_reload": "A",
+    "objective_grades_recorded": 8,
+    "known_score": "0/146",
+    "unallocated_points": 4,
+    "unscored_assessment": "1/2 wrong1, score unchanged",
+    "known_fill_self_grade": "Q01保存1分及重复保存后均为1/146，不累加"
+  },
+  "limits": [
+    "未重复测试未修改的3D/三卷内容；以保护哈希证明未改。",
+    "D18筛选与弱点来源采用原检查脚本和新增真实未核分记录的函数测试，无核心改写。"
+  ]
+}

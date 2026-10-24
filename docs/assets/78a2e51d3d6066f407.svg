@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="600" height="525" viewBox="0 0 600 525">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H800V700H0Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M260 410 110 470"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M110 470 125 315"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M125 315 350 245"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M350 245 545 300"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M545 300 490 455"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M490 455 260 410"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M170 100 350 245"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M125 450 138 323"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="13" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M170 100 260 410"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M170 100 260 410"/>
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="2.4" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#151b23" d="M490 455V570"/>
+</svg>

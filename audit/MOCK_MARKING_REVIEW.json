@@ -1,0 +1,2839 @@
+{
+  "at": "2026-10-24T18:23:45.423196+08:00",
+  "records": [
+    {
+      "id": "A-S01-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "中文系统名",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "英文系统名",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "中文1分；英文1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "立体异构体总数8个",
+          "points": 0.75
+        },
+        {
+          "id": "P02",
+          "label": "对映体4对",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "固定一个异构体时有6个非对映体",
+          "points": 0.75
+        }
+      ],
+      "source_suggestions": [
+        "8个0.75分；4对0.5分；每个6个0.75分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "3305 cm⁻¹为端炔sp C—H伸缩",
+          "points": 0.75
+        },
+        {
+          "id": "P02",
+          "label": "2110 cm⁻¹为C≡C伸缩",
+          "points": 0.75
+        },
+        {
+          "id": "P03",
+          "label": "620 cm⁻¹为端炔C—H弯曲",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": [
+        "两处伸缩各0.75分；弯曲0.5分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "五元内酯连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "正确翻转的构型",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "五元内酯连接1分；正确翻转构型1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "开环后的碳连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "醛、酮端点均正确",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "开环连接1分；醛酮端点正确1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q06",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一步加成产物的结构",
+          "points": 0.5
+        },
+        {
+          "id": "P02",
+          "label": "第一步产物名称",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "第二步再生醛的结构",
+          "points": 0.5
+        },
+        {
+          "id": "P04",
+          "label": "第二步产物名称",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": [
+        "每步正确结构0.5分、正确名称0.5分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q07",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "六元稠环连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "羰基位置与苯环双键",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "六元稠环1分；羰基位置与苯环双键1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q08",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "连接与官能团位置",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "Fischer空间关系及R构型",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "连接/官能团位置1分；Fischer空间及R构型1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q09",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "按题意写俗名糠醛；仅正确系统名时可酌给1分，两者不累计",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "正确俗名糠醛2分；仅写正确系统名可酌给1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q10",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "一套完整、适用的羰基脱氧条件；Zn(Hg)/HCl或肼/强碱加热均可",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "一套适用的完整羰基脱氧条件2分：Zn(Hg)/HCl或肼/强碱加热。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q11",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "烯醇结构",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "戊醛结构",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "烯醇1分；戊醛1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q12",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "对甲苯胺",
+          "points": 0.5
+        },
+        {
+          "id": "P02",
+          "label": "重氮盐",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "对位偶氮产物",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "对甲苯胺0.5分；重氮盐0.5分；对位偶氮产物1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q13",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "C1/C2双苯腙",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "C3—C5及CH2OH正确保留",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "C1/C2双苯腙1分；C3—C5及CH2OH正确保留1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q14",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "PhCH2—N连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "N上甲基及一个H",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "PhCH2—N连接1分；N上甲基及一个H正确1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S01-Q15",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "N-Cbz正确连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "原侧链和羧酸正确保留",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "N-Cbz正确连接1分；原侧链和羧酸正确1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S03-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 4.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "双键与环数",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "二醛复接",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "完整结构",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "4分：DBE1；双键/环数1；二醛复接1；结构1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S03-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 10.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "四个甲基的积分",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "取代对称性",
+          "points": 3.0
+        },
+        {
+          "id": "P04",
+          "label": "完整结构",
+          "points": 2.0
+        },
+        {
+          "id": "P05",
+          "label": "谱峰归属",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "10分：DBE2；4Me积分2；取代对称性3；结构2；归属1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S03-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 10.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "A结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "B结构",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "C结构",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "D结构",
+          "points": 1.0
+        },
+        {
+          "id": "P05",
+          "label": "E结构",
+          "points": 1.0
+        },
+        {
+          "id": "P06",
+          "label": "F结构",
+          "points": 1.0
+        },
+        {
+          "id": "P07",
+          "label": "两种裂解的计量回代",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "10分：A2、B2、C1、D1、E1、F1；两裂解计量回代2。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S03-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "CHO与OMe识别",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "对位判断",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "结构与名称",
+          "points": 1.0
+        },
+        {
+          "id": "P05",
+          "label": "逐峰归属",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "5分：DBE1；CHO/OMe1；对位判断1；结构名称1；逐峰归属1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S03-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "A结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "B结构",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "C结构及裂解",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "原子守恒",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "6分：A2；B1；C及裂解2；守恒1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S04-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "观察方向",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "六种构象",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "峰谷与周期",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "观察方向1分；六构象2分；峰谷周期2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S04-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "二聚结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "电子效应与力常数",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "波数关系",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "二聚结构2分；电子/力常数2分；波数关系1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S04-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "四种底物归类",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "结构趋势",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "速率式与量纲",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "四底物归类2分；结构趋势2分；速率式量纲1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S05-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "H迁移及中间体",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "Me迁移及产物",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "两步的电子箭头与价态；按原建议分步酌评",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "H迁移及中间体2分",
+        "Me迁移及产物2分",
+        "两步电子箭头/价态各1分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S05-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "三条成桥箭头及桥式中间体",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "Br⁻捕获支路",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "甲醇捕获支路",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "氧正离子的去质子化",
+          "points": 1.0
+        },
+        {
+          "id": "P05",
+          "label": "立体关系",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "桥形成三箭与中间体2分",
+        "两种捕获支路各1分",
+        "氧正离子去质子与立体各1分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S05-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "LDA去质子及烯醇盐共振",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "新C—C键及四面体中间体",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "离Cl及产物",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "LDA去质子与共振2分",
+        "新C—C键及四面体2分",
+        "离Cl与产物2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S06-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一次炔负离子烷基化及正确C3卤代烷",
+          "points": 3.0
+        },
+        {
+          "id": "P02",
+          "label": "第二次炔负离子烷基化及正确C3卤代烷",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "水合并互变成酮",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "两次炔负离子及正确C3卤代烷各3分；水合成酮2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S06-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "保护",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "炔盐成键",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "脱保护",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "官能团兼容性说明",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "保护2分；炔盐成键3分；脱保护2分；兼容性说明1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S06-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "C2/C3醇制格氏试剂",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "丙醛和六碳醇",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "氧化为酮",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "末步叔醇",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "C2/C3醇制格氏2分；丙醛和六碳醇2分；氧化为酮2分；末步叔醇2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S06-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "丁酰氯/AlCl3条件及酮",
+          "points": 4.0
+        },
+        {
+          "id": "P02",
+          "label": "Zn(Hg)/HCl条件及正丁苯",
+          "points": 4.0
+        }
+      ],
+      "source_suggestions": [
+        "丁酰氯/AlCl3与酮4分；Zn(Hg)/HCl及正确正丁苯4分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S06-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "转为丙炔",
+          "points": 3.0
+        },
+        {
+          "id": "P02",
+          "label": "羧化为炔酸",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "选择性半氢化",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "转丙炔3分；羧化成炔酸3分；选择性半氢化2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "连接与命名",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "cis及英文完整",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "连接命名1分；cis及英文完整1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "三元环及两个Cl",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "两个Me位置",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "三元环及两个Cl1分；两个Me位置1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "新C—C连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "三个乙酯与Me位置完整",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "新C-C连接1分；三个乙酯与Me位置完整1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "烯胺",
+          "points": 0.5
+        },
+        {
+          "id": "P02",
+          "label": "带电亚胺鎓",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "最终酮",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "烯胺0.5分；带电亚胺鎓0.5分；最终酮1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "环己烯酰氯母体",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "双键与羰基接位的完整命名",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "环己烯酰氯母体1分；双键与羰基接位完整命名1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q06",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "C12链与三甲基季铵的连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "N正电及Cl负离子",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "C12链与三甲基季铵连接1分；N正电及Cl负离子1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q07",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "叔丁基直接C—N连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "硝基正确价态",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "叔丁基直接C-N连接1分；硝基正确价态1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q08",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "丙醛母体",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "2,2-二甲基定位",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "丙醛母体1分；2,2-二甲基定位1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q09",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "磺酸基与噻吩环保留",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "2位取代",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "磺酸基与噻吩环保留1分；2位取代1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q10",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "可行的过氧酸氧化剂；不限定为本书一种",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "可行的过氧酸氧化剂2分，不限本书一种。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q11",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "1,3顺式连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "实际画出双平伏优势椅式",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "1,3顺式连接1分；实际画双平伏优势椅式1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q12",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "萘-2-磺酸主骨架",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "5-Me与8-Et位次均正确",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "萘-2-磺酸主骨架1分；5-Me与8-Et位次均对1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q13",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "苯甲酸",
+          "points": 0.5
+        },
+        {
+          "id": "P02",
+          "label": "苯甲酰胺",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "苯胺",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "苯甲酸0.5分；苯甲酰胺0.5分；苯胺1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q14",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "α有机锌酯",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "正确脱水烯酯",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "α有机锌酯1分；正确脱水烯酯1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S01-Q15",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "9/10位成两新键并保留外侧苯环",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "顺式酸酐桥及两个羰基",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "9/10成两新键并保留外苯环1分；顺式酸酐桥和两个羰基正确1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S03-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "末端烯及丙酮信息",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "五碳片段",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "完整四烯",
+          "points": 2.0
+        },
+        {
+          "id": "P05",
+          "label": "氢化骨架回代",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "8分：DBE1；末端/丙酮1；五碳片段2；完整四烯2；氢化骨架回代2。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S03-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "A结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "B结构",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "C结构",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "各组谱峰归属与积分",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "8分：A/B/C结构各2共6；逐组归属与积分2。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S03-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 10.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "五碳及无甲酸的碳账",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "两醛端复接邻二醇并成五元环",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "两个保留中心的立体继承",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "说明两个被切中心未定；或给出可成立成员并说明不唯一",
+          "points": 3.0
+        }
+      ],
+      "source_suggestions": [
+        "共10分建议：五碳/无甲酸碳账2分；两醛端复接邻二醇并成五元环3分；继承两保留中心立体2分；两被切中心均未定或给可成立的成员并说明不唯一3分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S03-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "烯谱信息",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "tBu信息",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "CH2两H非等价",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "排除炔",
+          "points": 1.0
+        },
+        {
+          "id": "P05",
+          "label": "完整结构",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "5分：烯谱1；tBu1；CH2两H非等价1；排除炔1；完整结构1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S03-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 4.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "等价12H",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "正确结构",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "分子式核验",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "4分：DBE1；等价12H1；正确结构1；分子式核验1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S04-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "角张力",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "扭转及非键因素",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "弯曲键",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "释放张力及条件",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "角张力2分；扭转非键1分；弯曲键1分；释放张力及条件1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S04-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "氰醇结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "酸碱消耗",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "耦合平衡方向",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "氰醇结构2分；酸碱消耗1分；耦合平衡方向2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S04-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "E2几何",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "sp线性与张力",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "二烯结论",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "E2几何2分；sp线性/张力2分；二烯结论1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S05-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "(i)五项识别",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "SN2双箭及环铵盐",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "真实去质子化及反应类型",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "(i)五项识别2分",
+        "SN2双箭/环铵盐2分",
+        "真实去质子和反应类型2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S05-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一轮完整四步",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "第二轮完整四步",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "催化、可逆、平衡与价态",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "第一轮完整四步2分",
+        "第二轮完整四步2分",
+        "催化/可逆/平衡与价态2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S05-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "羟醛加成三步",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "E1cb两步",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "目标骨架、碱再生及全部弯箭",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "羟醛加成三步2分",
+        "E1cb两步2分",
+        "目标骨架/碱再生/全部弯箭2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S06-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "正确二聚体",
+          "points": 4.0
+        },
+        {
+          "id": "P02",
+          "label": "一次HCl加成及目标连接",
+          "points": 4.0
+        }
+      ],
+      "source_suggestions": [
+        "正确二聚体4分；一次HCl加成及目标连接4分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S06-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "合适的2-戊烯",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "邻二溴物",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "第二次消除条件及2-戊炔",
+          "points": 4.0
+        }
+      ],
+      "source_suggestions": [
+        "合适2-戊烯2分；邻二溴物2分；第二消除条件及2-戊炔4分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S06-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一条完整组合",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "第二条完整组合",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "第三条完整组合",
+          "points": 2.0
+        },
+        {
+          "id": "P04",
+          "label": "优选与理由",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "三条完整组合各2分；优选及理由2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S06-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "正确丙酮与乙酸乙酯",
+          "points": 3.0
+        },
+        {
+          "id": "P02",
+          "label": "成键及脱EtO",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "产物盐与酸化",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "正确丙酮/乙酸乙酯3分；成键与脱EtO3分；产物盐及酸化2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "B-S06-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "明确对位及分离",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "合理苄位转换",
+          "points": 4.0
+        },
+        {
+          "id": "P03",
+          "label": "正确目标与兼容性",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "明确对位及分离2分；合理苄位转换4分；正确目标/兼容性2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "环氧连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "trans及外消旋",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "环氧连接1分；trans及外消旋1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "产物",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "亲核性质",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "1,4加成位置",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": [
+        "产物1分；亲核及1,4各0.5分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "正确区域",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "全部官能团及Me数量",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "正确区域1分；全部官能团和Me数量1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "双键位置",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "原立体关系保持",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "双键位置1分；原立体关系保持1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "主链、烯位及取代基",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "2Z",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "4R",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": [
+        "主链/烯位及取代基1分；2Z与4R各0.5分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q06",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "重排碳架",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "Cl在正确的三级碳",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "重排碳架1分；Cl在正确三级碳1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q07",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "重排主要烯烃连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "四个Me与内双键完整",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "重排主要烯烃连接1分；四Me与内双键完整1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q08",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "双酰氯及母体",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "烯侧链接位与双键位置",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "双酰氯与母体1分；烯侧链接位和双键位置1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q09",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "顺式1,2-二醇",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "实际画出同面a/e椅式",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "顺式1,2-二醇1分；实际画同面a/e椅式1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q10",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "母体及取代位",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "E",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "S",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": "母体及取代位1分；E与S各0.5分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q11",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "环氧酯",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "2-苯基丙醛",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "环氧酯1分；2-苯基丙醛1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q12",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "两个桥头及[2.2.1]连接",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "N位置、三键及6C",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "两个桥头与[2.2.1]连接1分；N位置/三键与6C正确1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q13",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "四取代中心保留Ph/CN/CO2Et",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "新—CH2CH2CN支链",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "四取代中心保留Ph/CN/CO2Et1分；新—CH2CH2CN支链1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q14",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "羰基位置及7C骨架",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "新键与末端异丙烯基",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": "羰基位置和7C骨架1分；新键及末端异丙烯基正确1分。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S01-Q15",
+      "kind": "manual_reference_groups",
+      "total_score": 2.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一个连续空",
+          "points": 0.5
+        },
+        {
+          "id": "P02",
+          "label": "第二个连续空",
+          "points": 0.5
+        },
+        {
+          "id": "P03",
+          "label": "第三个连续空",
+          "points": 0.5
+        },
+        {
+          "id": "P04",
+          "label": "第四个连续空",
+          "points": 0.5
+        }
+      ],
+      "source_suggestions": "四个连续空各0.5分，共2分，不删空。",
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S03-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 4.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "谱段",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "连接",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "氢数核对",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "4分：DBE1；谱段1；连接1；氢数核对1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S03-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 10.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "A结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "B结构",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "C结构",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "D反式及外消旋",
+          "points": 2.0
+        },
+        {
+          "id": "P05",
+          "label": "E结构",
+          "points": 2.0
+        },
+        {
+          "id": "P06",
+          "label": "裂解计量",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "10分：A2；B1；C1；D反式与外消旋2；E2；裂解计量2。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S03-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 10.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "C结构及归属",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "B竞争加成",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "A结构",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "D/E几何",
+          "points": 2.0
+        },
+        {
+          "id": "P05",
+          "label": "F连接",
+          "points": 2.0
+        },
+        {
+          "id": "P06",
+          "label": "原子守恒；不要求未给定的绝对构型",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "10分：C及归属2；B竞争加成2；A1；D/E几何2；F连接2；守恒1；不要求未给绝对构型。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S03-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "含硝基时的DBE",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "片段",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "连接",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "非等价CH2与多重耦合",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "5分：含硝基DBE1；片段1；连接1；非等价CH2与多重耦合2。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S03-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "C/D结构",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "A/B结构",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "四个Fischer投影",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "对称性及降解回代",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "下列为编辑建议，非原书官方评分。",
+        "6分：C/D2；A/B2；四Fischer1；对称与降解回代1。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S04-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "桥头与双椅",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "(iii)氯位置",
+          "points": 1.0
+        },
+        {
+          "id": "P03",
+          "label": "(iv)甲基",
+          "points": 1.0
+        },
+        {
+          "id": "P04",
+          "label": "翻椅限制",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "桥头与双椅2分；iii氯位置1分；iv甲基1分；翻椅限制1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S04-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "稠合及两环作用",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "共同零点的能量比较",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "结论与模型边界",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "稠合和两环作用2分；共同零点能量2分；结论与模型边界1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S04-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 5.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "间位及sp³碳",
+          "points": 1.0
+        },
+        {
+          "id": "P02",
+          "label": "三个共振式",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "电荷与定位解释",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "间位及sp3碳1分；三共振式3分；电荷及定位解释1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S05-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "HOBr及溴正离子的完整弯箭",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "两面背面开环",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "区域、anti及对映关系",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "HOBr与溴正离子完整弯箭2分",
+        "两面背面开环2分",
+        "区域/anti/对映关系2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S05-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "亲核启动及烯醇盐",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "Br2捕获的全部箭头",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "anti产物镜像与原条件",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "亲核启动与烯醇盐2分",
+        "Br2捕获全部箭头2分",
+        "anti产物镜像及原条件2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S05-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 6.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "LDA定向及烯醇盐",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "羟醛成键及质子化",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "E1cb、目标及箭头",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "LDA定向/烯醇盐2分",
+        "羟醛成键/质子化2分",
+        "E1cb/目标/箭头2分"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S06-Q01",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "唯一β消除",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "端炔制备",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "正确偶联及二炔",
+          "points": 3.0
+        }
+      ],
+      "source_suggestions": [
+        "唯一β消除2分；端炔制备3分；正确偶联及二炔3分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S06-Q02",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "内炔前体",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "明确端位异构化",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "氢硼氧化成醛",
+          "points": 3.0
+        }
+      ],
+      "source_suggestions": [
+        "内炔前体2分；明确端位异构化3分；氢硼氧化成醛3分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S06-Q03",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "初次Dieckmann",
+          "points": 2.0
+        },
+        {
+          "id": "P02",
+          "label": "苄基化",
+          "points": 2.0
+        },
+        {
+          "id": "P03",
+          "label": "逆开环及异位再成环",
+          "points": 3.0
+        },
+        {
+          "id": "P04",
+          "label": "最终位置",
+          "points": 1.0
+        }
+      ],
+      "source_suggestions": [
+        "初次Dieckmann2分；苄基化2分；逆开环/异位再成环3分；最终位置1分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S06-Q04",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "烯胺及丙酰化",
+          "points": 3.0
+        },
+        {
+          "id": "P02",
+          "label": "正确逆开环",
+          "points": 3.0
+        },
+        {
+          "id": "P03",
+          "label": "选择性酮还原",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "烯胺/丙酰化3分；正确逆开环3分；选择性酮还原2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "C-S06-Q05",
+      "kind": "manual_reference_groups",
+      "total_score": 8.0,
+      "groups": [
+        {
+          "id": "P01",
+          "label": "第一条完整路线",
+          "points": 1.5
+        },
+        {
+          "id": "P02",
+          "label": "第二条完整路线",
+          "points": 1.5
+        },
+        {
+          "id": "P03",
+          "label": "第三条完整路线",
+          "points": 1.5
+        },
+        {
+          "id": "P04",
+          "label": "第四条完整路线",
+          "points": 1.5
+        },
+        {
+          "id": "P05",
+          "label": "选择性、原料限制及优劣比较",
+          "points": 2.0
+        }
+      ],
+      "source_suggestions": [
+        "四条路线各1.5分；选择性、原料限制与优劣比较2分。"
+      ],
+      "is_official": false,
+      "review": "已逐条对照现有采分建议；未重做化学推导，不新增化学终验。"
+    },
+    {
+      "id": "A-S02-Q01",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q02",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q03",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q04",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q05",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q06",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q07",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q08",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q09",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q10",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q11",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "A-S02-Q12",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q01",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q02",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q03",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q04",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q05",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q06",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q07",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q08",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q09",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q10",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q11",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "B-S02-Q12",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q01",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q02",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q03",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q04",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q05",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q06",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q07",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q08",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q09",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q10",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q11",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    },
+    {
+      "id": "C-S02-Q12",
+      "kind": "objective_existing_key",
+      "total_score": 1,
+      "parts": 1,
+      "part_score": 1.0,
+      "is_official": false,
+      "review": "保留现有原选项、单/多选全对及双空分配口径；不修改答案。"
+    }
+  ],
+  "questions": 129,
+  "subjective_with_explicit_groups": 93,
+  "objective_existing_keys": 36,
+  "points_per_paper": 150,
+  "source_sha256": "b4445235413f9de12d2b51a178744d2181812a2ffe756ad1b1838649eaa6e3a5",
+  "scope": "采分建议分组及合计核对；不代表官方评分、学生测试或整卷化学终验。",
+  "final_accepted": false
+}

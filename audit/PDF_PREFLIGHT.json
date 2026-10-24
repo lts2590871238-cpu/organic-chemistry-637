@@ -1,0 +1,66 @@
+{
+  "at": "2026-10-24T21:38:04.090049+08:00",
+  "records": [
+    {
+      "file": "mock-A-paper.pdf",
+      "sha256": "abe280e5b05aca8dc2cfe495bef8af64dc70233720f42dec7c9df2ffbc819201",
+      "pages": 15,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": true,
+      "note": "试题PDF保留原封版。"
+    },
+    {
+      "file": "mock-A-solutions.pdf",
+      "sha256": "c9ca1ad9fdbf3841f5477932d8064866607025ddb8b514dadb597f059ddda731",
+      "pages": 45,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": false,
+      "note": "解析PDF仅分页重排，字符与原读取顺序保留；原研究PDF未改。"
+    },
+    {
+      "file": "mock-B-paper.pdf",
+      "sha256": "612fbc92d6c4dcce2c4a1c4f970a06addba7faa90b4a7a3e05eb721656a8d1ef",
+      "pages": 19,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": true,
+      "note": "试题PDF保留原封版。"
+    },
+    {
+      "file": "mock-B-solutions.pdf",
+      "sha256": "fed013113b1b1ea403253d3f9d835a8ef9983c5ca23950a8a21a2af425300842",
+      "pages": 49,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": false,
+      "note": "解析PDF仅分页重排，字符与原读取顺序保留；原研究PDF未改。"
+    },
+    {
+      "file": "mock-C-paper.pdf",
+      "sha256": "3eddfa106a186ce7d2ee198ebfed320291d8ce4181c2cbd4c5a196d0003eaf32",
+      "pages": 21,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": true,
+      "note": "试题PDF保留原封版。"
+    },
+    {
+      "file": "mock-C-solutions.pdf",
+      "sha256": "d5998332dcc0c258808b63c461cf75e856ebdfba3a2afa3c2469ecae0e4a4d85",
+      "pages": 49,
+      "issues": [],
+      "printed_question_headings": 43,
+      "headings_and_scores_match_web": true,
+      "matches_current_research_pdf": false,
+      "note": "解析PDF仅分页重排，字符与原读取顺序保留；原研究PDF未改。"
+    }
+  ],
+  "scope": "PDF文件、页边界、图像与题号配分检查；不是新的化学复算。"
+}

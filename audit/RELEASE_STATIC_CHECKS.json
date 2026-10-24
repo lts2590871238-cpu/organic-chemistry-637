@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-24T14:33:09.802Z",
+  "static_files": 2182,
+  "public_files_byte_identical_in_docs": 2119,
+  "relative_entry_assets": true,
+  "no_bundled_scans_or_full_textbooks_by_filename": true,
+  "all_files_below_100MiB": true,
+  "scope": "Static deployment integrity; filename screening is not a copyright determination."
+}
