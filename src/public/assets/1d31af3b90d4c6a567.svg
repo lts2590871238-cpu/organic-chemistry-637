@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1130" height="340" viewBox="0 0 1130 340"><rect width="100%" height="100%" fill="white"/><svg x="0" y="0" width="390" height="320" viewBox="0 0 390 320">
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='390.0' height='320.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 334.6,131.7 L 241.0,86.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 327.8,145.8 L 242.4,104.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 241.0,86.7 L 155.2,145.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 155.2,145.2 L 192.5,227.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-4' d='M 155.2,145.2 L 82.7,70.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 82.7,70.9 L 54.6,170.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-2' d='M 54.6,170.9 L 155.2,145.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 245.7,88.9 L 241.0,86.7 L 236.7,89.6' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path d='M 86.3,74.6 L 82.7,70.9 L 81.3,75.9' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path d='M 56.0,165.9 L 54.6,170.9 L 59.6,169.6' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path class='atom-3' d='M 190.2 239.9
+Q 190.2 235.8, 192.2 233.5
+Q 194.2 231.3, 198.0 231.3
+Q 201.7 231.3, 203.8 233.5
+Q 205.8 235.8, 205.8 239.9
+Q 205.8 244.0, 203.7 246.4
+Q 201.7 248.7, 198.0 248.7
+Q 194.2 248.7, 192.2 246.4
+Q 190.2 244.1, 190.2 239.9
+M 198.0 246.8
+Q 200.6 246.8, 202.0 245.1
+Q 203.4 243.3, 203.4 239.9
+Q 203.4 236.6, 202.0 234.9
+Q 200.6 233.2, 198.0 233.2
+Q 195.4 233.2, 194.0 234.9
+Q 192.6 236.5, 192.6 239.9
+Q 192.6 243.3, 194.0 245.1
+Q 195.4 246.8, 198.0 246.8
+' fill='#000000'/>
+<path class='atom-3' d='M 208.4 231.5
+L 210.7 231.5
+L 210.7 238.7
+L 219.4 238.7
+L 219.4 231.5
+L 221.7 231.5
+L 221.7 248.5
+L 219.4 248.5
+L 219.4 240.6
+L 210.7 240.6
+L 210.7 248.5
+L 208.4 248.5
+L 208.4 231.5
+' fill='#000000'/>
+</svg><line x1="440" y1="170" x2="750" y2="170" stroke="#151b23" stroke-width="2.4"/><path d="M750,170 L738,165 L738,175 Z" fill="#151b23"/><text x="577.78" y="152" text-anchor="start" font-family="Helvetica" font-size="20" fill="#111">H</text><text x="592.22" y="152" text-anchor="start" font-family="Helvetica" font-size="20" fill="#111">B</text><text x="605.5600000000001" y="152" text-anchor="start" font-family="Helvetica" font-size="20" fill="#111">r</text><svg x="790" y="0" width="320" height="320" viewBox="0 0 320 320">
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='320.0' height='320.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 272.8,232.5 L 208.9,168.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 208.9,168.6 L 208.9,78.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 208.9,78.2 L 118.5,78.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 118.5,78.2 L 118.5,168.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 118.5,159.0 L 60.6,217.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 128.1,168.6 L 70.2,226.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-4 atom-1' d='M 118.5,168.6 L 208.9,168.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 208.9,82.7 L 208.9,78.2 L 204.4,78.2' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path d='M 123.0,78.2 L 118.5,78.2 L 118.5,82.7' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path d='M 118.5,164.1 L 118.5,168.6 L 123.0,168.6' style='fill:none;stroke:#000000;stroke-width:2.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path class='atom-5' d='M 46.8 232.6
+Q 46.8 228.5, 48.8 226.2
+Q 50.8 223.9, 54.6 223.9
+Q 58.3 223.9, 60.4 226.2
+Q 62.4 228.5, 62.4 232.6
+Q 62.4 236.7, 60.3 239.1
+Q 58.3 241.4, 54.6 241.4
+Q 50.8 241.4, 48.8 239.1
+Q 46.8 236.7, 46.8 232.6
+M 54.6 239.5
+Q 57.2 239.5, 58.6 237.7
+Q 60.0 236.0, 60.0 232.6
+Q 60.0 229.2, 58.6 227.6
+Q 57.2 225.9, 54.6 225.9
+Q 52.0 225.9, 50.6 227.5
+Q 49.2 229.2, 49.2 232.6
+Q 49.2 236.0, 50.6 237.7
+Q 52.0 239.5, 54.6 239.5
+' fill='#000000'/>
+</svg></svg>

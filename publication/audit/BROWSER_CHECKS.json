@@ -1,0 +1,41 @@
+{
+  "at": "2026-10-24T17:14:21.423684+08:00",
+  "actual_browser_tests": {
+    "home_21_days": true,
+    "full_card_first_body_characters": 742,
+    "A_draft_reload_preserved": true,
+    "B_before_submit": {
+      "question_count": 43,
+      "answer_panels": 0,
+      "clock": "3:00:00"
+    },
+    "B_after_submit": {
+      "answer_panels": 43,
+      "editable_answer_inputs": false
+    },
+    "clean_training_visible_question_count": 1,
+    "mobile": {
+      "viewport_width": 390,
+      "document_width": 375,
+      "sidebar_closed_right": 0,
+      "menu_navigation": true
+    },
+    "image_zoom": {
+      "opened_dialogs": 1,
+      "after_return_button": 0,
+      "escape_keyboard_verified": false
+    },
+    "clean_exam_C": {
+      "visible_question_count": 1,
+      "first_id": "C-S01-Q01",
+      "next_id": "C-S01-Q02",
+      "clock": "3:00:00"
+    }
+  },
+  "limits": [
+    "没有把旧43题同时渲染测试与当前单题模式混为一谈；C单题导航已另测",
+    "Escape事件已实现，但本次浏览器按键工具超时，尚未实测确认",
+    "未逐题逐卡穷尽视觉校准，未提升化学终验状态"
+  ],
+  "screenshots": "已在应用浏览器原生预览中显示；本工具的截图落盘权限受限，未伪造本地截图文件。"
+}

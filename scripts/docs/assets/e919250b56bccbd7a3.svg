@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="686.056" height="275.96" viewBox="0 0 686.056 275.96">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-192,358)" d="M192 82.04001H878.056V358H192Z" clip-rule="evenodd"/>
+</clipPath>
+<path id="font_2_47" d="M.6459961 .72898867H.55799868V.1329956L.1769867 .72898867H.07598877V0H.1639862V.59098818L.54100039 0H.6459961V.72898867Z"/>
+<path id="font_2_52" d="M.59599307 .5149994C.59599307 .5649872 .59298709 .57899478 .57699587 .61299136 .5369873 .69699099 .45199586 .7409973 .32899476 .7409973 .16899109 .7409973 .069992069 .6589966 .069992069 .5269928 .069992069 .43798829 .116989139 .38198854 .21299744 .35699464L.3939972 .30899049C.4869995 .2849884 .5279999 .24798584 .5279999 .19099427 .5279999 .1519928 .5069885 .11199951 .47599793 .08999634 .44699098 .068984989 .40098573 .05899048 .34199525 .05899048 .2619934 .05899048 .20899964 .07798767 .17399597 .11999512 .14698792 .1519928 .1349945 .18699646 .13598633 .23199463H.04798889C.04899597 .16499329 .06199646 .12098694 .09098816 .08099365 .14099121 .011993408 .22499085-.023010254 .33599855-.023010254 .4229889-.023010254 .49398805-.0030059815 .54100039 .032989503 .58999636 .07199097 .62098696 .13699341 .62098696 .19999695 .62098696 .2899933 .5649872 .35598756 .46598817 .3829956L.2829895 .43199159C.19499207 .45599366 .16299439 .48399354 .16299439 .5399933 .16299439 .6139984 .22799683 .6629944 .32598878 .6629944 .44198609 .6629944 .5069885 .61099246 .5079956 .5149994H.59599307Z"/>
+<path id="font_2_48" d="M.3889923 .7409973C.17999268 .7409973 .037994386 .58699038 .037994386 .35899354 .037994386 .12998963 .1789856-.023010254 .3899994-.023010254 .47898866-.023010254 .5569916 .0039978029 .6159973 .053985597 .69499209 .12098694 .74198916 .23399353 .74198916 .35299684 .74198916 .58799746 .6029968 .7409973 .3889923 .7409973M.3889923 .6589966C.5469971 .6589966 .6489868 .5399933 .6489868 .35499574 .6489868 .1789856 .5439911 .05899048 .3899994 .05899048 .23399353 .05899048 .1309967 .1789856 .1309967 .35899354 .1309967 .5389862 .23399353 .6589966 .3889923 .6589966Z"/>
+<path id="font_2_20" d="M.22099304 .33299256H.23199463 .2689972C.36499024 .33299256 .41600038 .28799439 .41600038 .20098877 .41600038 .10998535 .36099244 .054992677 .269989 .054992677 .17298889 .054992677 .12599182 .10398865 .11999512 .20999146H.03199768C.035995485 .1519928 .04598999 .11399841 .06298828 .08198547 .099990848 .011993408 .16899109-.023010254 .2659912-.023010254 .4119873-.023010254 .5059967 .06498718 .5059967 .20199585 .5059967 .2939911 .47099305 .34399415 .38598634 .37399293 .45199586 .40098573 .4850006 .45098878 .4850006 .5239868 .4850006 .647995 .4039917 .72299197 .2689972 .72299197 .12599182 .72299197 .049987794 .6429901 .04699707 .48999024H.1349945C.13598633 .5339966 .13999939 .5589905 .15098572 .58099368 .17098999 .621994 .21499634 .6459961 .269989 .6459961 .34799195 .6459961 .394989 .598999 .394989 .5209961 .394989 .46998597 .3769989 .43899537 .33799745 .42199708 .31399537 .4119873 .28199769 .4079895 .22099304 .40699769V.33299256Z"/>
+<path id="font_2_60" d="M.25 .72898867H.06399536V-.21200562H.25V-.14001465H.14698792V.6569977H.25V.72898867Z"/>
+<path id="font_2_18" d="M.25898744 .5149994V0H.34700013V.72299197H.2889862C.2579956 .6119995 .23799134 .5970001 .101989749 .57899478V.5149994H.25898744Z"/>
+<path id="font_2_62" d="M.022994996-.21200562H.20899964V.72898867H.022994996V.6569977H.12599182V-.14001465H.022994996V-.21200562Z"/>
+</defs>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M200 300 285 350"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M285 350 370 300"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M370 300V180"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M370 180 315 145"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M255 145 200 180"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M200 180V300"/>
+<use data-text="N" xlink:href="#font_2_47" transform="matrix(40,0,0,-40,83,256)"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M215 190V290"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M297 330 355 295"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M355 190 315 157"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M465 230H765"/>
+<path transform="matrix(1,0,0,-1,-192,358)" d="M765 230 740 241V219Z" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M765 230 740 241V219Z"/>
+<use data-text="S" xlink:href="#font_2_52" transform="matrix(32,0,0,-32,298,98)"/>
+<use data-text="O" xlink:href="#font_2_48" transform="matrix(32,0,0,-32,319.344,98)"/>
+<use data-text="3" xlink:href="#font_2_20" transform="matrix(32,0,0,-32,344.24,98)"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M590 130 615 175"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M615 175 640 130"/>
+<path transform="matrix(1,0,0,-1,-192,358)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M640 130H590"/>
+<use data-text="[" xlink:href="#font_2_60" transform="matrix(42,0,0,-42,608,143)"/>
+<use data-text="1" xlink:href="#font_2_18" transform="matrix(42,0,0,-42,619.676,143)"/>
+<use data-text="3" xlink:href="#font_2_20" transform="matrix(42,0,0,-42,643.028,143)"/>
+<use data-text="]" xlink:href="#font_2_62" transform="matrix(42,0,0,-42,666.38,143)"/>
+</g>
+</svg>

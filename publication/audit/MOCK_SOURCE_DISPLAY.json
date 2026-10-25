@@ -1,0 +1,8 @@
+{
+  "records": 129,
+  "pdf_pages_present": 129,
+  "printed_pages_present": 129,
+  "original_option_label_sets": 36,
+  "missing_source_pages": [],
+  "note": "仅映射现有有效source_record，不读取superseded_source_record，不新增题源核验结论。"
+}

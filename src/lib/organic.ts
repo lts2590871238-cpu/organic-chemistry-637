@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 export interface OQuestion { id:string; year:number|null; no:number; section:string; type:string; score:number|null; sectionScore?:number; raw:string; kp:string[]; cards:string[]; unitIds:string[]; difficulty:string; day:number; source:{book:string;page?:string|number;exercise?:string;paper?:string;printedPage?:string|number|number[];pdfPage?:string|number|number[]}; answerKey?:string|null;optionLabels?:string[]; edited?:boolean;editorialStems?:{unitIds:string[];text:string}[]; auditStatus:string }
 export interface OCard {id:string;day:number;kind:string;title:string;body:string;points:string[];linkedParents:string[];figures:string[];sources:string[]}
 export interface ODay {day:number;title:string;ids:string[];cards:string[];minutes:number|null;sections?:{title:string;ids:string[];methodCards:string[]}[]}
-export interface OUnit {id:string;answer:string;derivation:string[];checks:string[];teaching:Record<string,string[]|string>;figures:string[];markingPoints?:{id:string;label:string;points:number}[];editorial?:{question:string;answer:string;teaching:Record<string,string[]|string>}}
+export interface OUnit {completeSolutionSource?:{pdf:string;pages:number[];nativeVector:boolean};id:string;answer:string;derivation:string[];checks:string[];teaching:Record<string,string[]|string>;figures:string[];markingPoints?:{id:string;label:string;points:number}[];editorial?:{question:string;answer:string;teaching:Record<string,string[]|string>}}
 export interface OAnswer {units:OUnit[];missing:boolean;final_accepted:boolean}
 export interface Bundle {questions:OQuestion[];cards:OCard[];days:ODay[]}
 const memo=new Map<string,Promise<unknown>>()

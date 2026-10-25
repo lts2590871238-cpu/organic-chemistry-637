@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="520.75" height="128.35" viewBox="0 0 520.75 128.35">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-1,129.35)" d="M1 1H521.75V129.35H1Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" stroke-width="2.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M163.5 257.5 392.9 159.9"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" stroke-width="2.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M392.9 159.9 592.2 309.7"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" stroke-width="2.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M592.2 309.7 807.6 218.1"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" stroke-width="2.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M381.5 164.7 392.9 159.9 402.9 167.4"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" stroke-width="2.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M582.2 302.2 592.2 309.7 603 305.2"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" d="M824.1 211.7C825.1667 211.9667 826 212.4333 826.6 213.1 827.1333 213.7667 827.4 214.6 827.4 215.6 827.4 217.1333 826.9 218.3667 825.9 219.3 824.9 220.1667 823.4667 220.6 821.6 220.6H815.9V203.6H820.9C822.8333 203.6 824.2667 204 825.2 204.8 826.2 205.6 826.7 206.7 826.7 208.1 826.7 209.8333 825.8333 211.0333 824.1 211.7ZM818.1 205.5V210.9H820.9C821.9667 210.9 822.8 210.6667 823.4 210.2 824 209.7333 824.3 209.0333 824.3 208.1 824.3 206.3667 823.1667 205.5 820.9 205.5H818.1ZM821.6 218.7C822.6667 218.7 823.5 218.4333 824.1 217.9 824.7 217.3667 825 216.6 825 215.6 825 214.6667 824.6667 213.9667 824 213.5 823.4 213.0333 822.4667 212.8 821.2 212.8H818.1V218.7H821.6Z"/>
+<path transform="matrix(.75,0,0,.75,-114.625,-111.924999)" d="M831.3 208.3 831.5 210C832.3667 208.7333 833.5 208.1 834.9 208.1 835.3667 208.1 835.9 208.1667 836.5 208.3L836.2 210.3C835.4667 210.1667 834.9 210.1 834.5 210.1 833.8333 210.1 833.3 210.2333 832.9 210.5 832.4333 210.7667 832.0333 211.2 831.7 211.8V220.6H829.4V208.3H831.3Z"/>
+</g>
+</svg>

@@ -1,0 +1,113 @@
+{
+  "at": "2026-10-24T22:33:57.216649+08:00",
+  "local_preview": "http://localhost:3000/",
+  "functional_checks": 23,
+  "checks_all_passed": true,
+  "lint_exit": 0,
+  "build_exit": 0,
+  "browser_tests": {
+    "all_21_day_entries": true,
+    "pause_2022_reload_timer_unchanged": true,
+    "pause_2023_mobile_reload": true,
+    "D18_current_generation": {
+      "questions": 44,
+      "total_points": 150,
+      "paused_hides_questions": true
+    },
+    "corrected_stem_visible_before_answer": true,
+    "marking_checkbox_reload_restored": true,
+    "practice_restart_clears_visible_draft": true,
+    "B_S02_Q02_original_option_buttons": [
+      "A",
+      "B",
+      "C"
+    ],
+    "all_150_analytics_rows_loaded": true,
+    "mobile_width": 390,
+    "mobile_document_width": 375,
+    "weighted_marking_reload_preserved_without_grading": true,
+    "last_targeted_report": "TARGETED_BROWSER_CHECKS.json"
+  },
+  "source_display": {
+    "records": 129,
+    "pdf_pages_present": 129,
+    "printed_pages_present": 129,
+    "original_option_label_sets": 36,
+    "missing_source_pages": [],
+    "note": "仅映射现有有效source_record，不读取superseded_source_record，不新增题源核验结论。"
+  },
+  "pdf_preflight": "PDF_PREFLIGHT.json",
+  "spatial_models": [
+    "tetrahedron",
+    "chair",
+    "ethane",
+    "Fischer",
+    "SN2_geometry",
+    "E2_anti_geometry"
+  ],
+  "public_question_repaired_stems": 143,
+  "repaired_units_visible": 169,
+  "scope": "网站工程封存；配分、版面、构建及已列浏览器行为核验，不提升原化学终验。",
+  "whole_chemical_final_accepted": false,
+  "remaining": [],
+  "mock_marking_review": "MOCK_MARKING_REVIEW.json",
+  "pdf_visual_review": "PDF_VISUAL_REVIEW.json",
+  "engineering_release_sealed": true,
+  "known_content_limits": [
+    "剩余297道历年父题单题印分留空；D16已核110、D17已核146。",
+    "考情细点映射及局部分类仍保留候选身份；编辑题不计真实考频。",
+    "本次为网站工程与交付文件封存，不新增1329单元化学终验；既有8题终验身份保留。",
+    "三卷参考采分不是学校官方评分；C/A设计代理增加28.18%，非学生实测。",
+    "静态网站进度保存在当前域名浏览器；localhost记录不会自动迁入GitHub域名，须使用站内导出/导入。",
+    "静态解析仅交卷后显示入口，不具备服务端保密能力；源码和静态文件可被访问。",
+    "未复制整本教材或扫描原卷；商业题目公开转载权限由发布者另行核实。"
+  ],
+  "pdf_layout_current": "PDF_REFLOW.json",
+  "automation_637": "deleted_after_user_requested_sealing",
+  "final_checks": {
+    "application_checks_passed": 23,
+    "lint_exit": 0,
+    "build_exit": 0,
+    "static_exit": 0,
+    "static_files": 2182,
+    "copied_public_files_byte_identical": 2119
+  },
+  "last_targeted_fix": {
+    "at": "2026-10-24T22:33:57.216649+08:00",
+    "scope": "仅D10—15编排、D16/17未核分值提示、D08/09分节进度",
+    "report": "最后定点修复报告.md",
+    "checks_passed": 23,
+    "scores": {
+      "2022": {
+        "known": 110,
+        "unallocated": 40,
+        "unknown_parents": 5
+      },
+      "2023": {
+        "known": 146,
+        "unallocated": 4,
+        "unknown_parents": 2
+      }
+    },
+    "protected_files_hash_matched": 2117,
+    "same_2013_2020_parent_set": 324,
+    "new_day_counts": [
+      66,
+      64,
+      59,
+      60,
+      37,
+      38
+    ],
+    "research_workspace_modified": false,
+    "reference_modified": false
+  },
+  "latest_answer_repair": {
+    "at": "2026-10-25T23:08:41.505331+08:00",
+    "audit": "audit/ANSWER_REPAIR_CLOSEOUT.json",
+    "data_units_checked": 1287,
+    "function_checks_passed": 25,
+    "docs_rebuilt": true,
+    "remote_published": false
+  }
+}

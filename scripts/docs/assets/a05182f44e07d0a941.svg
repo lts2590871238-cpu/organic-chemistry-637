@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="646" height="293.212" viewBox="0 0 646 293.212">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-442,378.85)" d="M442 85.638H1088V378.85H442Z" clip-rule="evenodd"/>
+</clipPath>
+<path id="font_2_36" d="M.6619873 .5029907C.6329956 .6629944 .54100039 .7409973 .3809967 .7409973 .2829895 .7409973 .20399475 .70999148 .1499939 .6499939 .083999637 .5779877 .04798889 .47399903 .04798889 .35598756 .04798889 .23599243 .084991458 .1329956 .15299988 .06199646 .20999146 .0039978029 .28199769-.023010254 .3769989-.023010254 .5549927-.023010254 .6549988 .07299805 .6769867 .2659912H.58099368C.57299807 .21598816 .5629883 .18199158 .5479889 .15299988 .5179901 .09298706 .45599366 .05899048 .37799073 .05899048 .23298645 .05899048 .14099121 .1749878 .14099121 .35699464 .14099121 .5439911 .22799683 .6589966 .36999513 .6589966 .42900086 .6589966 .48399354 .6419983 .5139923 .61299136 .54100039 .58799746 .55599978 .55799868 .5669861 .5029907H.6619873Z"/>
+<path id="font_2_77" d="M.1519928 .72898867H.067993167V0H.1519928V.72898867Z"/>
+</defs>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M650 235H790"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M650 248H790"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M650 235 550 320"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M550 320 450 275"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M650 235 550 145"/>
+<use data-text="C" xlink:href="#font_2_36" transform="matrix(38,0,0,-38,58,273.85)"/>
+<use data-text="l" xlink:href="#font_2_77" transform="matrix(38,0,0,-38,85.435977,273.85)"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M790 235 880 320"/>
+<use data-text="C" xlink:href="#font_2_36" transform="matrix(38,0,0,-38,438,48.850008)"/>
+<use data-text="l" xlink:href="#font_2_77" transform="matrix(38,0,0,-38,465.43598,48.850008)"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M790 235 880 145"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M880 145 980 190"/>
+<path transform="matrix(1,0,0,-1,-442,378.85)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M980 190 1080 145"/>
+</g>
+</svg>

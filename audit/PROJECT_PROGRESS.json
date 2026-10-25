@@ -1,0 +1,229 @@
+{
+  "at": "2026-10-25T23:08:14.563384+08:00",
+  "phase": "全站答案漏接修复完成；待用户GitHub Desktop上传",
+  "directory": "D:\\桌面\\637有机化学21天刷题站",
+  "reference_read_only": "D:\\桌面\\github",
+  "research_read_only": "D:\\桌面\\637有机化学真题研究工作区",
+  "migration": {
+    "original_parents": 755,
+    "mock_questions": 129,
+    "cards": 96,
+    "syllabus_chapters": 19,
+    "day_counts": {
+      "1": 4,
+      "2": 20,
+      "3": 23,
+      "4": 20,
+      "5": 14,
+      "6": 79,
+      "7": 4,
+      "8": 90,
+      "9": 93,
+      "10": 66,
+      "11": 64,
+      "12": 59,
+      "13": 60,
+      "14": 37,
+      "15": 38,
+      "16": 37,
+      "17": 47,
+      "18": 0,
+      "19": 43,
+      "20": 43,
+      "21": 43
+    }
+  },
+  "native_vector_assets": 2107,
+  "routes_and_exam_implemented": true,
+  "build_and_lint_last_passed": true,
+  "unit_logic_checks": 23,
+  "browser_verified": [
+    "首页21天入口与真实数量",
+    "D01完整卡片展开，实测正文742字符而非标题摘要",
+    "A卷交卷前43题无解析、草稿刷新恢复",
+    "B卷3:00:00、草稿恢复、页面内确认交卷、43处解析解锁且作答锁定",
+    "精简版讲义/方法/真题分屏，单题阅读",
+    "390像素手机视图无横向溢出，菜单展开并能导航",
+    "2022暂停刷新剩余不变、2023手机暂停与跨页持久化",
+    "D18实际44题原分值组合150，暂停遮题",
+    "修订条件提前可见且答案未提前显示",
+    "采分勾选刷新保存、重新练习清空当前草稿",
+    "B卷原生三选项、书名与原书页码及PDF下载入口",
+    "A-S01-Q02参考分0.75/0.5/0.75，勾选刷新保留且已评12/43、0/150不受勾选改变"
+  ],
+  "mock_whole_paper_final_accepted": false,
+  "C_proxy_increase_accepted_percent": 28.18,
+  "remaining": [],
+  "current_user_priority": "先把网站做起来，再补空缺；页面要干净，减少同时呈现，完整内容不能删。",
+  "next": [
+    "用户通过GitHub Desktop上传当前工程；main /docs部署。"
+  ],
+  "preview": "http://localhost:3000/",
+  "refresh_cards": "禁止使用",
+  "published": false,
+  "latest_clean_ui_checks": {
+    "at": "2026-10-24T17:14:21.423684+08:00",
+    "actual_browser_tests": {
+      "home_21_days": true,
+      "full_card_first_body_characters": 742,
+      "A_draft_reload_preserved": true,
+      "B_before_submit": {
+        "question_count": 43,
+        "answer_panels": 0,
+        "clock": "3:00:00"
+      },
+      "B_after_submit": {
+        "answer_panels": 43,
+        "editable_answer_inputs": false
+      },
+      "clean_training_visible_question_count": 1,
+      "mobile": {
+        "viewport_width": 390,
+        "document_width": 375,
+        "sidebar_closed_right": 0,
+        "menu_navigation": true
+      },
+      "image_zoom": {
+        "opened_dialogs": 1,
+        "after_return_button": 0,
+        "escape_keyboard_verified": false
+      },
+      "clean_exam_C": {
+        "visible_question_count": 1,
+        "first_id": "C-S01-Q01",
+        "next_id": "C-S01-Q02",
+        "clock": "3:00:00"
+      }
+    },
+    "limits": [
+      "没有把旧43题同时渲染测试与当前单题模式混为一谈；C单题导航已另测",
+      "Escape事件已实现，但本次浏览器按键工具超时，尚未实测确认",
+      "未逐题逐卡穷尽视觉校准，未提升化学终验状态"
+    ],
+    "screenshots": "已在应用浏览器原生预览中显示；本工具的截图落盘权限受限，未伪造本地截图文件。"
+  },
+  "checks": {
+    "build_exit": 0,
+    "lint_exit": 0,
+    "logic_exit": 0
+  },
+  "pause_resume": {
+    "all_timed_exams": true,
+    "persistent": true,
+    "browser_verified_years": [
+      2022,
+      2023
+    ]
+  },
+  "spatial_models": [
+    "tetrahedron",
+    "chair",
+    "ethane",
+    "Fischer",
+    "SN2_geometry",
+    "E2_anti_geometry"
+  ],
+  "latest_acceptance_report": "audit/SITE_ACCEPTANCE.json",
+  "unknown_original_parent_scores": 297,
+  "mock_marking_review": {
+    "report": "audit/MOCK_MARKING_REVIEW.json",
+    "questions": 129,
+    "subjective": 93,
+    "objective": 36,
+    "all_totals_match": true,
+    "official": false
+  },
+  "pdf_visual_review": "audit/PDF_VISUAL_REVIEW.json",
+  "sealed": true,
+  "sealed_at": "2026-10-24T22:33:57.216649+08:00",
+  "known_content_limits": [
+    "297道历年父题未可靠核定单题印分，保持留空；2022已核110/未分配40，2023已核146/未分配4。",
+    "考情细点映射及局部分类仍保留候选身份；编辑题不计真实考频。",
+    "本次为网站工程与交付文件封存，不新增1329单元化学终验；既有8题终验身份保留。",
+    "三卷参考采分不是学校官方评分；C/A设计代理增加28.18%，非学生实测。",
+    "静态网站进度保存在当前域名浏览器；localhost记录不会自动迁入GitHub域名，须使用站内导出/导入。",
+    "静态解析仅交卷后显示入口，不具备服务端保密能力；源码和静态文件可被访问。",
+    "未复制整本教材或扫描原卷；商业题目公开转载权限由发布者另行核实。"
+  ],
+  "pdf_pages": {
+    "A": [
+      15,
+      45
+    ],
+    "B": [
+      19,
+      49
+    ],
+    "C": [
+      21,
+      49
+    ]
+  },
+  "automation_637": "deleted_after_user_requested_sealing",
+  "final_checks": {
+    "application_checks_passed": 23,
+    "lint_exit": 0,
+    "build_exit": 0,
+    "static_exit": 0,
+    "static_files": 2182,
+    "copied_public_files_byte_identical": 2119
+  },
+  "last_targeted_fix": {
+    "at": "2026-10-24T22:33:57.216649+08:00",
+    "scope": "仅D10—15编排、D16/17未核分值提示、D08/09分节进度",
+    "report": "最后定点修复报告.md",
+    "checks_passed": 23,
+    "scores": {
+      "2022": {
+        "known": 110,
+        "unallocated": 40,
+        "unknown_parents": 5
+      },
+      "2023": {
+        "known": 146,
+        "unallocated": 4,
+        "unknown_parents": 2
+      }
+    },
+    "protected_files_hash_matched": 2117,
+    "same_2013_2020_parent_set": 324,
+    "new_day_counts": [
+      66,
+      64,
+      59,
+      60,
+      37,
+      38
+    ],
+    "research_workspace_modified": false,
+    "reference_modified": false
+  },
+  "answer_display_repair": {
+    "at": "2026-10-25T23:08:14.563384+08:00",
+    "parents": 884,
+    "units": 1287,
+    "research": {
+      "units": 1158,
+      "compared_with_round2_or_3": 1158,
+      "editorial_teaching_restored_to_renderer": 169,
+      "units_with_figure_changes": 188,
+      "mechanism_units_with_figure_changes": 44
+    },
+    "mock_questions": 129,
+    "mock_native_pages": 143,
+    "mock_multi_page_questions": 13,
+    "function_checks": 25,
+    "katex_errors": [],
+    "source_issues": [],
+    "unrelated_data_hashes_unchanged": true,
+    "answer_text_and_marking_unchanged": true,
+    "browser_verified": [
+      "2004-S02-Q03：五步讲解、五图与末步酸化可放大",
+      "2004-S01-Q02-P06：修订版全部教学正文可见，原候选独立折叠",
+      "C-S05-Q03：两页完整机理，末页3/4/5步和目标产物可辨；移除多余下节标题"
+    ],
+    "chemical_final_acceptance_changed": false,
+    "build": "passed",
+    "lint": "passed"
+  }
+}
