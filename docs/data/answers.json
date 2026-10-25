@@ -1435,7 +1435,9 @@
             "实绘迁移箭头及I2正电位置，继之Cl−捕获；说明2A/2B竞争，不写成两个连续氯加成。"
           ]
         },
-        "figures": [],
+        "figures": [
+          "assets/6e6ee8c1cb6d38f70a.svg"
+        ],
         "editorial": null
       }
     ],
@@ -1497,7 +1499,11 @@
           ]
         },
         "figures": [
-          "assets/cdd910f6313a27c9fb.svg"
+          "assets/cdd910f6313a27c9fb.svg",
+          "assets/b7b8939c9b6e0e4909.svg",
+          "assets/1217dfe87bd9f58ada.svg",
+          "assets/f8a711da435aec39a4.svg",
+          "assets/366ca13999985bd2e6.svg"
         ],
         "editorial": null
       }
@@ -3099,6 +3105,15 @@
         },
         "figures": [
           "assets/c211ab3c1b9f0850e1.svg",
+          "assets/a67ae86260de7e2d00.svg",
+          "assets/040b63274f2b5d73c5.svg",
+          "assets/ef581545df7d01c3ca.svg",
+          "assets/34f8ab9d70d19d002b.svg",
+          "assets/b534f14b73078251c3.svg",
+          "assets/4026ae3e641e0b5784.svg",
+          "assets/bae01a4cbfca9fa3d8.svg",
+          "assets/b99c0750561fefe9e7.svg",
+          "assets/ff75069680278b2c49.svg",
           "assets/0984e4dcaadb9bbbcd.svg",
           "assets/8c37df60e20207af91.svg",
           "assets/bde1cc0a62f091e72f.svg",
@@ -4957,7 +4972,10 @@
           ]
         },
         "figures": [
-          "assets/87256be0b43c54a6b3.svg"
+          "assets/87256be0b43c54a6b3.svg",
+          "assets/adb104a5fe28fe8a6c.svg",
+          "assets/21f6ec11d011b0fd62.svg",
+          "assets/c9a7291de04fa3c4dd.svg"
         ],
         "editorial": null
       }
@@ -5018,7 +5036,11 @@
           ]
         },
         "figures": [
-          "assets/30b27aceaa5954876c.svg"
+          "assets/30b27aceaa5954876c.svg",
+          "assets/dcc62038897c8fce0f.svg",
+          "assets/1ba1155e6d2afc3e78.svg",
+          "assets/5949b077fccec4b805.svg",
+          "assets/a4c5e22ac4a602ff90.svg"
         ],
         "editorial": null
       }
@@ -5440,7 +5462,8 @@
           ]
         },
         "figures": [
-          "assets/d6064bc0f3146b3d4e.svg"
+          "assets/d6064bc0f3146b3d4e.svg",
+          "assets/2f8616edc7c790a687.svg"
         ],
         "editorial": null
       },
@@ -6292,7 +6315,14 @@
           ]
         },
         "figures": [
-          "assets/d5677a53daaf22bad4.svg"
+          "assets/d5677a53daaf22bad4.svg",
+          "assets/65a26ac26415e86983.svg",
+          "assets/e3c78e821230560e4c.svg",
+          "assets/bf889c053bb1b75fd5.svg",
+          "assets/f71940841f39965a25.svg",
+          "assets/2d0b034b30b0ade90a.svg",
+          "assets/40646bb167e36b5b7e.svg",
+          "assets/466ae74329cc4b079b.svg"
         ],
         "editorial": null
       }
@@ -6351,7 +6381,11 @@
           ]
         },
         "figures": [
-          "assets/94b7fad47edc23246f.svg"
+          "assets/94b7fad47edc23246f.svg",
+          "assets/d271bb6ae594206de2.svg",
+          "assets/5be2240496e8b75896.svg",
+          "assets/f99e5d7082a56a6b6b.svg",
+          "assets/f055c998a177fcabbd.svg"
         ],
         "editorial": null
       }
@@ -6408,7 +6442,9 @@
           ]
         },
         "figures": [
-          "assets/14b7db19c7c7aade92.svg"
+          "assets/14b7db19c7c7aade92.svg",
+          "assets/f7dfae6e7c9409cdba.svg",
+          "assets/a88b280f44c8437e2e.svg"
         ],
         "editorial": null
       }
@@ -7251,6 +7287,7 @@
         "teaching": {},
         "figures": [
           "assets/a567ed1959354ee724.svg",
+          "assets/8de209e4065a1c7bbb.svg",
           "assets/92ea7bc37470262527.svg"
         ],
         "editorial": {
@@ -7498,7 +7535,8 @@
           ]
         },
         "figures": [
-          "assets/42f0fa54500465dcd6.svg"
+          "assets/42f0fa54500465dcd6.svg",
+          "assets/b52e27ee945f08d706.svg"
         ],
         "editorial": null
       }
@@ -7707,7 +7745,9 @@
           ]
         },
         "figures": [
-          "assets/b7b7350d2e19396444.svg"
+          "assets/b7b7350d2e19396444.svg",
+          "assets/356524399daeba4ff6.svg",
+          "assets/f166b40f53c43eb1c0.svg"
         ],
         "editorial": null
       }
@@ -7767,7 +7807,13 @@
           ]
         },
         "figures": [
-          "assets/9a3847b2c6ee4aa007.svg"
+          "assets/9a3847b2c6ee4aa007.svg",
+          "assets/e3a3a90ae4c2ceb731.svg",
+          "assets/b531f8e5b9ff106f24.svg",
+          "assets/46bc2df6c297e27495.svg",
+          "assets/812127006223f01e9d.svg",
+          "assets/95a0226bfe49db4a4f.svg",
+          "assets/5d3814e15e2c591384.svg"
         ],
         "editorial": null
       }
@@ -8877,7 +8923,9 @@
             "b芳香，10π及连续共轭。"
           ]
         },
-        "figures": [],
+        "figures": [
+          "assets/f52b9007027f0237a8.svg"
+        ],
         "editorial": null
       },
       {
@@ -8912,7 +8960,9 @@
             "c非芳香，指出饱和角点。"
           ]
         },
-        "figures": [],
+        "figures": [
+          "assets/f52b9007027f0237a8.svg"
+        ],
         "editorial": null
       },
       {
@@ -8947,7 +8997,9 @@
             "d芳香，4+2=6π。"
           ]
         },
-        "figures": [],
+        "figures": [
+          "assets/f52b9007027f0237a8.svg"
+        ],
         "editorial": null
       }
     ],
@@ -9211,7 +9263,12 @@
           ]
         },
         "figures": [
-          "assets/dd3343b519e9048850.svg"
+          "assets/dd3343b519e9048850.svg",
+          "assets/37da4c361edb28437a.svg",
+          "assets/7462bf33d89eba8cc7.svg",
+          "assets/232a2ee1f62fe39377.svg",
+          "assets/2e5c85059642223f70.svg",
+          "assets/31d8ea1b5b2c2b123e.svg"
         ],
         "editorial": null
       }
@@ -9261,7 +9318,9 @@
           ]
         },
         "figures": [
-          "assets/589b969e0de823a7e2.svg"
+          "assets/589b969e0de823a7e2.svg",
+          "assets/30bfcd333aeea7a434.svg",
+          "assets/1df25a3ed53188185f.svg"
         ],
         "editorial": null
       }
@@ -9314,7 +9373,12 @@
           ]
         },
         "figures": [
-          "assets/dc68b053623e1bb29d.svg"
+          "assets/dc68b053623e1bb29d.svg",
+          "assets/5dd2b7f54167715653.svg",
+          "assets/377654ab2bb85a2c03.svg",
+          "assets/0348b51d973bcf931e.svg",
+          "assets/0ed8b70b34857e10d2.svg",
+          "assets/15519f93c48941ec61.svg"
         ],
         "editorial": null
       }
@@ -9372,7 +9436,12 @@
           ]
         },
         "figures": [
-          "assets/473a6ab6daef79bba2.svg"
+          "assets/473a6ab6daef79bba2.svg",
+          "assets/f37ff3d876f425feca.svg",
+          "assets/8f4d62f4b1c8f8270b.svg",
+          "assets/cf3d7926593b8523dd.svg",
+          "assets/66dd9d61df6f1dfa5e.svg",
+          "assets/4b2a23585d31d57954.svg"
         ],
         "editorial": null
       }
@@ -9933,7 +10002,8 @@
           ]
         },
         "figures": [
-          "assets/825a285fef2b5b0623.svg"
+          "assets/825a285fef2b5b0623.svg",
+          "assets/39b347d99ba7b08fea.svg"
         ],
         "editorial": null
       }
@@ -10052,7 +10122,8 @@
           ]
         },
         "figures": [
-          "assets/630482364eed97044d.svg"
+          "assets/630482364eed97044d.svg",
+          "assets/dd60c9c08aa44558ff.svg"
         ],
         "editorial": null
       }
@@ -10134,7 +10205,8 @@
           ]
         },
         "figures": [
-          "assets/671e444b136375ba54.svg"
+          "assets/671e444b136375ba54.svg",
+          "assets/7260b702af76f8a6cb.svg"
         ],
         "editorial": null
       }
@@ -10301,7 +10373,9 @@
           ]
         },
         "figures": [
-          "assets/88c8ed84c3326450d4.svg"
+          "assets/88c8ed84c3326450d4.svg",
+          "assets/0dd15a7b6eab4a2eae.svg",
+          "assets/81b7f66ccd4813e97a.svg"
         ],
         "editorial": null
       }
@@ -10416,6 +10490,7 @@
         "teaching": {},
         "figures": [
           "assets/e37c36a10971b7a8eb.svg",
+          "assets/5207fa4efdfd3c8d5d.svg",
           "assets/0845e7e67b019f1017.svg"
         ],
         "editorial": {
@@ -10498,7 +10573,11 @@
           ]
         },
         "figures": [
-          "assets/5489baca342eb63652.svg"
+          "assets/5489baca342eb63652.svg",
+          "assets/d4e9dffc03b12b214f.svg",
+          "assets/9262470fd859600088.svg",
+          "assets/47569f403e4afcf266.svg",
+          "assets/da1a9464d547736a4c.svg"
         ],
         "editorial": null
       }
@@ -10556,7 +10635,19 @@
           ]
         },
         "figures": [
-          "assets/3de51674fd7a2419da.svg"
+          "assets/3de51674fd7a2419da.svg",
+          "assets/b5a2621b753cb6663e.svg",
+          "assets/bb2cb7da61a85a313b.svg",
+          "assets/e3482a5d057e95d5a4.svg",
+          "assets/554c45140489390b1c.svg",
+          "assets/9323034f3ace64fbd1.svg",
+          "assets/62b15f41f3f4d2587c.svg",
+          "assets/bc9f572633ddad70cd.svg",
+          "assets/09142c5f539c340e9d.svg",
+          "assets/a5018af4e71dd77604.svg",
+          "assets/9f0cf228fb51e96f84.svg",
+          "assets/a761ad4bf355fec202.svg",
+          "assets/3dcb708eabbaf8618d.svg"
         ],
         "editorial": null
       }
@@ -10612,7 +10703,11 @@
           ]
         },
         "figures": [
-          "assets/bd5b00b71208b69b72.svg"
+          "assets/bd5b00b71208b69b72.svg",
+          "assets/73de5f7ca1cbe59e98.svg",
+          "assets/024c474b49ee8dbc03.svg",
+          "assets/216d83cfa7878f2425.svg",
+          "assets/8f76af5e2042576977.svg"
         ],
         "editorial": null
       }
@@ -11345,7 +11440,8 @@
           ]
         },
         "figures": [
-          "assets/62f7452c1be42b13f6.svg"
+          "assets/62f7452c1be42b13f6.svg",
+          "assets/c9d8d963aab6a3eef8.svg"
         ],
         "editorial": null
       },
@@ -11383,7 +11479,8 @@
           ]
         },
         "figures": [
-          "assets/715a1b9507c3f4b35b.svg"
+          "assets/715a1b9507c3f4b35b.svg",
+          "assets/3cc86b8a46b847907f.svg"
         ],
         "editorial": null
       }
@@ -11432,7 +11529,8 @@
           ]
         },
         "figures": [
-          "assets/b2346580933fc46945.svg"
+          "assets/b2346580933fc46945.svg",
+          "assets/135ee4b26e5e762069.svg"
         ],
         "editorial": null
       },
@@ -11982,7 +12080,8 @@
           ]
         },
         "figures": [
-          "assets/6fff87f198eca143d8.svg"
+          "assets/6fff87f198eca143d8.svg",
+          "assets/cabf96bbde307a8ddd.svg"
         ],
         "editorial": null
       },
@@ -12074,7 +12173,10 @@
           ]
         },
         "figures": [
-          "assets/95a44af0cee070e532.svg"
+          "assets/95a44af0cee070e532.svg",
+          "assets/0fddf381f9620868f0.svg",
+          "assets/68659d3047b9a84081.svg",
+          "assets/c2b915bb005e689c31.svg"
         ],
         "editorial": null
       }
@@ -12187,7 +12289,10 @@
           ]
         },
         "figures": [
-          "assets/85af506f66fa919637.svg"
+          "assets/85af506f66fa919637.svg",
+          "assets/079b0db2a307b5cb5a.svg",
+          "assets/53bfa5b03578b58dd7.svg",
+          "assets/49d5908e8d6d833812.svg"
         ],
         "editorial": null
       }
@@ -12242,7 +12347,9 @@
           ]
         },
         "figures": [
-          "assets/2e6cb9ccc635d14537.svg"
+          "assets/2e6cb9ccc635d14537.svg",
+          "assets/6c4afc953dce55b947.svg",
+          "assets/a44118f5c5b0bc47ea.svg"
         ],
         "editorial": null
       }
@@ -12500,7 +12607,8 @@
           ]
         },
         "figures": [
-          "assets/b40b3620a529dd7408.svg"
+          "assets/b40b3620a529dd7408.svg",
+          "assets/9d43b8f1a6b4ac28ed.svg"
         ],
         "editorial": null
       }
@@ -13350,7 +13458,9 @@
           ]
         },
         "figures": [
-          "assets/0ccca0fcfe5797fbb7.svg"
+          "assets/0ccca0fcfe5797fbb7.svg",
+          "assets/9a4600ae1272d81a2b.svg",
+          "assets/27997f8790f8f4c162.svg"
         ],
         "editorial": null
       }
@@ -13405,7 +13515,18 @@
           ]
         },
         "figures": [
-          "assets/4fac78060d52e45755.svg"
+          "assets/4fac78060d52e45755.svg",
+          "assets/bd6d5715d233c1556b.svg",
+          "assets/4d07bded4e8ea6e48b.svg",
+          "assets/222d3c427641ab7b95.svg",
+          "assets/e09d3915fa26b4d8c9.svg",
+          "assets/6f329e327d23694e3d.svg",
+          "assets/98ec5f95aae2aef374.svg",
+          "assets/22b38cb5b1fb66b28e.svg",
+          "assets/97640108c053c2feab.svg",
+          "assets/7a19b615e192b2e60d.svg",
+          "assets/1d33e4b2f40230ac21.svg",
+          "assets/0eab3861415fe43327.svg"
         ],
         "editorial": null
       }
@@ -13460,7 +13581,10 @@
           ]
         },
         "figures": [
-          "assets/270ad19788c5ba309f.svg"
+          "assets/270ad19788c5ba309f.svg",
+          "assets/a789bc45af6bfff800.svg",
+          "assets/76e236e72a557f78c4.svg",
+          "assets/d6b7a7153c3cc65f03.svg"
         ],
         "editorial": null
       }
@@ -14696,7 +14820,8 @@
           ]
         },
         "figures": [
-          "assets/6fff87f198eca143d8.svg"
+          "assets/6fff87f198eca143d8.svg",
+          "assets/cabf96bbde307a8ddd.svg"
         ],
         "editorial": null
       },
@@ -14828,7 +14953,11 @@
           ]
         },
         "figures": [
-          "assets/a2138278bcf6e963bb.svg"
+          "assets/a2138278bcf6e963bb.svg",
+          "assets/0bae4f69dcda267e31.svg",
+          "assets/85362ae2ae99e8bd1d.svg",
+          "assets/3d2cecc09f96941733.svg",
+          "assets/ae3683866c9f53f247.svg"
         ],
         "editorial": null
       }
@@ -14881,7 +15010,9 @@
           ]
         },
         "figures": [
-          "assets/b6abd41f698caa7589.svg"
+          "assets/b6abd41f698caa7589.svg",
+          "assets/62b6628171a6c2c980.svg",
+          "assets/9a9c2dde457dd4d423.svg"
         ],
         "editorial": null
       }
@@ -14938,7 +15069,13 @@
           ]
         },
         "figures": [
-          "assets/10c59d5316cf556416.svg"
+          "assets/10c59d5316cf556416.svg",
+          "assets/255745fdc3739d8146.svg",
+          "assets/8cdceb16df93ae7bc5.svg",
+          "assets/56ed4826fef033a22e.svg",
+          "assets/aa7639e7189678ba55.svg",
+          "assets/243bb4f31ad4b285b3.svg",
+          "assets/285df0c4bf38d00785.svg"
         ],
         "editorial": null
       }
@@ -14998,7 +15135,17 @@
           ]
         },
         "figures": [
-          "assets/554b9ca0b37138999e.svg"
+          "assets/554b9ca0b37138999e.svg",
+          "assets/bebb1538e70a824b41.svg",
+          "assets/28c72c67b398f8fda4.svg",
+          "assets/e90f2ee4092fc1c2f3.svg",
+          "assets/4dbde11f14aa97c329.svg",
+          "assets/e21dc6d901ac2c176b.svg",
+          "assets/aa8a27e815045c4c15.svg",
+          "assets/eb898e94db721743bb.svg",
+          "assets/3e7cb981aa36dead75.svg",
+          "assets/12d006734bf3203dcf.svg",
+          "assets/dd4207485110d42fff.svg"
         ],
         "editorial": null
       }
@@ -16315,7 +16462,8 @@
           ]
         },
         "figures": [
-          "assets/079b0db2a307b5cb5a.svg"
+          "assets/079b0db2a307b5cb5a.svg",
+          "assets/53bfa5b03578b58dd7.svg"
         ],
         "editorial": null
       }
@@ -17541,7 +17689,8 @@
           ]
         },
         "figures": [
-          "assets/857a44bc1a365de53d.svg"
+          "assets/857a44bc1a365de53d.svg",
+          "assets/e976cab168679ecb77.svg"
         ],
         "editorial": null
       },
@@ -17578,7 +17727,8 @@
           ]
         },
         "figures": [
-          "assets/69d6a9b1db6be190d5.svg"
+          "assets/69d6a9b1db6be190d5.svg",
+          "assets/a6200e4fa89912e739.svg"
         ],
         "editorial": null
       }
@@ -17635,7 +17785,10 @@
           ]
         },
         "figures": [
-          "assets/2847e73977896d5e1c.svg"
+          "assets/2847e73977896d5e1c.svg",
+          "assets/11a42865e03a543c46.svg",
+          "assets/587e38417b67cd52ea.svg",
+          "assets/2af8c979bbef43720f.svg"
         ],
         "editorial": null
       }
@@ -17726,6 +17879,9 @@
         "teaching": {},
         "figures": [
           "assets/cac19386d2c0801278.svg",
+          "assets/47cb73e7440a9d1ddc.svg",
+          "assets/2b2c3e3df9d5bf3158.svg",
+          "assets/cdb9d5d8e2956020bf.svg",
           "assets/9b1144e75db078282d.svg",
           "assets/97465a7b33e97aed57.svg",
           "assets/631e92b1b54ba5fe44.svg",
@@ -17820,7 +17976,10 @@
           ]
         },
         "figures": [
-          "assets/cd293007aa8e197a7a.svg"
+          "assets/cd293007aa8e197a7a.svg",
+          "assets/fd907fb6310082321b.svg",
+          "assets/7c732aa16e55c4d08a.svg",
+          "assets/7567e67b7e7af79455.svg"
         ],
         "editorial": null
       }
@@ -17877,7 +18036,12 @@
           ]
         },
         "figures": [
-          "assets/2fa39f0f087cd28fd2.svg"
+          "assets/2fa39f0f087cd28fd2.svg",
+          "assets/da14293335a8f1dff2.svg",
+          "assets/74de2a5e55193938d6.svg",
+          "assets/fc28e9d194a49f4525.svg",
+          "assets/960cfd218985970ae5.svg",
+          "assets/4cfe5e4b890e6fe926.svg"
         ],
         "editorial": null
       }
@@ -17934,7 +18098,10 @@
           ]
         },
         "figures": [
-          "assets/8ffcbc0e065eba1c87.svg"
+          "assets/8ffcbc0e065eba1c87.svg",
+          "assets/738cae7c6221d7826e.svg",
+          "assets/455336202fee609ee9.svg",
+          "assets/aa6ed656b818d7f8a1.svg"
         ],
         "editorial": null
       }
@@ -17989,7 +18156,9 @@
           ]
         },
         "figures": [
-          "assets/1a04f2faba5df7d287.svg"
+          "assets/1a04f2faba5df7d287.svg",
+          "assets/794d3c428d0ba9c91d.svg",
+          "assets/f709c914fcbd6b66fd.svg"
         ],
         "editorial": null
       }
@@ -18044,7 +18213,9 @@
           ]
         },
         "figures": [
-          "assets/73d1612009a0157562.svg"
+          "assets/73d1612009a0157562.svg",
+          "assets/6f14b9fd8e0e68dd7c.svg",
+          "assets/0993c7c3d59add75ee.svg"
         ],
         "editorial": null
       }
@@ -18636,7 +18807,8 @@
           ]
         },
         "figures": [
-          "assets/788ce29a793d29ae23.svg"
+          "assets/788ce29a793d29ae23.svg",
+          "assets/4be6f8a2535f2e944e.svg"
         ],
         "editorial": null
       }
@@ -18680,7 +18852,8 @@
           ]
         },
         "figures": [
-          "assets/734ab3470aa87aac11.svg"
+          "assets/734ab3470aa87aac11.svg",
+          "assets/483d7dd8c0f3ee2c3d.svg"
         ],
         "editorial": null
       },
@@ -18720,7 +18893,8 @@
           ]
         },
         "figures": [
-          "assets/c708098710410f7f19.svg"
+          "assets/c708098710410f7f19.svg",
+          "assets/2a601caa3f318f9ceb.svg"
         ],
         "editorial": null
       }
@@ -18839,7 +19013,8 @@
           ]
         },
         "figures": [
-          "assets/f7b0375b24e6f282e6.svg"
+          "assets/f7b0375b24e6f282e6.svg",
+          "assets/10a4932978d6bf4317.svg"
         ],
         "editorial": null
       }
@@ -18888,7 +19063,8 @@
           ]
         },
         "figures": [
-          "assets/929fe671a9ce29584e.svg"
+          "assets/929fe671a9ce29584e.svg",
+          "assets/a5f81159e752634ba3.svg"
         ],
         "editorial": null
       },
@@ -19532,7 +19708,11 @@
           ]
         },
         "figures": [
-          "assets/e846338f5c66e259a5.svg"
+          "assets/e846338f5c66e259a5.svg",
+          "assets/e792169b15f4da657e.svg",
+          "assets/0c13558120eeb139ee.svg",
+          "assets/bb19b84265ec414815.svg",
+          "assets/7298c710137a691ad3.svg"
         ],
         "editorial": null
       }
@@ -19588,7 +19768,12 @@
           ]
         },
         "figures": [
-          "assets/3cc8a8be443d2077ea.svg"
+          "assets/3cc8a8be443d2077ea.svg",
+          "assets/e552b034d7de69bf60.svg",
+          "assets/cae5f36ac8aea1eaa3.svg",
+          "assets/e453d298a87a5e71d5.svg",
+          "assets/24a0da8d7caa9c400b.svg",
+          "assets/909e38781e9427630c.svg"
         ],
         "editorial": null
       }
@@ -19645,7 +19830,11 @@
           ]
         },
         "figures": [
-          "assets/4a55a40b4dc88a9b03.svg"
+          "assets/4a55a40b4dc88a9b03.svg",
+          "assets/e796e146d13894d019.svg",
+          "assets/0510b2c93e39b4a28d.svg",
+          "assets/5171f332ae7cc0cf2d.svg",
+          "assets/dfc9b64524481c1613.svg"
         ],
         "editorial": null
       }
@@ -19785,7 +19974,8 @@
           ]
         },
         "figures": [
-          "assets/fdc004e3284744cb49.svg"
+          "assets/fdc004e3284744cb49.svg",
+          "assets/86285ed7eb2da95c9d.svg"
         ],
         "editorial": null
       }
@@ -19947,7 +20137,8 @@
           ]
         },
         "figures": [
-          "assets/74126e2db924848e1a.svg"
+          "assets/74126e2db924848e1a.svg",
+          "assets/51b350708fb6f10a7d.svg"
         ],
         "editorial": null
       }
@@ -20209,7 +20400,8 @@
           ]
         },
         "figures": [
-          "assets/fd2aad79ee67a7349c.svg"
+          "assets/fd2aad79ee67a7349c.svg",
+          "assets/2a197aa110dda9b1fe.svg"
         ],
         "editorial": null
       }
@@ -20328,7 +20520,8 @@
           ]
         },
         "figures": [
-          "assets/8e30a330e695ab77c3.svg"
+          "assets/8e30a330e695ab77c3.svg",
+          "assets/6ef0410822dec08756.svg"
         ],
         "editorial": null
       }
@@ -20580,7 +20773,11 @@
           ]
         },
         "figures": [
-          "assets/9b7be5f812dd66ea1d.svg"
+          "assets/9b7be5f812dd66ea1d.svg",
+          "assets/e80b704a464d56f813.svg",
+          "assets/454d48f68a48d1e8c9.svg",
+          "assets/42f288150b54bbffcc.svg",
+          "assets/b01b80d8e38bc62648.svg"
         ],
         "editorial": null
       }
@@ -20638,7 +20835,10 @@
           ]
         },
         "figures": [
-          "assets/a86d2297a6993c8dae.svg"
+          "assets/a86d2297a6993c8dae.svg",
+          "assets/b0d6a3ce8282fead0e.svg",
+          "assets/a1f65956dad0c00e73.svg",
+          "assets/933c77ff3bce20a785.svg"
         ],
         "editorial": null
       }
@@ -20695,7 +20895,13 @@
           ]
         },
         "figures": [
-          "assets/51350d85f9f9969464.svg"
+          "assets/51350d85f9f9969464.svg",
+          "assets/3dcf2699500b6be50d.svg",
+          "assets/991973a48bde91879c.svg",
+          "assets/8e455ba4b51c286717.svg",
+          "assets/25617794fbab683030.svg",
+          "assets/df82c1af7e291cea1c.svg",
+          "assets/eecb270758b9759c86.svg"
         ],
         "editorial": null
       }
@@ -20754,7 +20960,11 @@
           ]
         },
         "figures": [
-          "assets/a2138278bcf6e963bb.svg"
+          "assets/a2138278bcf6e963bb.svg",
+          "assets/0bae4f69dcda267e31.svg",
+          "assets/85362ae2ae99e8bd1d.svg",
+          "assets/3d2cecc09f96941733.svg",
+          "assets/ae3683866c9f53f247.svg"
         ],
         "editorial": null
       }
@@ -21793,7 +22003,8 @@
           ]
         },
         "figures": [
-          "assets/98296400aa0792e296.svg"
+          "assets/98296400aa0792e296.svg",
+          "assets/e3d387534bba442857.svg"
         ],
         "editorial": null
       },
@@ -21833,7 +22044,8 @@
           ]
         },
         "figures": [
-          "assets/ce4f1a5f700b966852.svg"
+          "assets/ce4f1a5f700b966852.svg",
+          "assets/69ac75b01d24fb2c5b.svg"
         ],
         "editorial": null
       }
@@ -23028,7 +23240,8 @@
           ]
         },
         "figures": [
-          "assets/ca6fe052784af40b4b.svg"
+          "assets/ca6fe052784af40b4b.svg",
+          "assets/f14fffcc8c92260c57.svg"
         ],
         "editorial": null
       }
@@ -23241,7 +23454,10 @@
           ]
         },
         "figures": [
-          "assets/71afaf20788507a083.svg"
+          "assets/71afaf20788507a083.svg",
+          "assets/003a6d474e7af9081b.svg",
+          "assets/4f6ba746955ef8c294.svg",
+          "assets/fd528a766da258ab88.svg"
         ],
         "editorial": null
       }
@@ -23358,7 +23574,13 @@
           ]
         },
         "figures": [
-          "assets/5aa7bfa4fa104040e6.svg"
+          "assets/5aa7bfa4fa104040e6.svg",
+          "assets/f96c1a831317da651c.svg",
+          "assets/023d388f77080a183f.svg",
+          "assets/014ff92e32f1f2d367.svg",
+          "assets/71e381dc90b3397f6d.svg",
+          "assets/1d51d8e88813fff79b.svg",
+          "assets/d9737c6ae9c4a58712.svg"
         ],
         "editorial": null
       }
@@ -23481,7 +23703,11 @@
           ]
         },
         "figures": [
-          "assets/7bb4159b490209937e.svg"
+          "assets/7bb4159b490209937e.svg",
+          "assets/0fba37b20bbbad1cd6.svg",
+          "assets/494d75720e8f26cddd.svg",
+          "assets/2b6db4c4531e8caf27.svg",
+          "assets/e06c18a4e5cb436cde.svg"
         ],
         "editorial": null
       }
@@ -23536,7 +23762,10 @@
           ]
         },
         "figures": [
-          "assets/2f691393d7ed14e769.svg"
+          "assets/2f691393d7ed14e769.svg",
+          "assets/cd6fea909fd7cfbb62.svg",
+          "assets/a16bf5fd2de346f71f.svg",
+          "assets/ef9a63f81a1903e060.svg"
         ],
         "editorial": null
       }
@@ -24432,7 +24661,8 @@
           ]
         },
         "figures": [
-          "assets/3611a1f12b3099d8fe.svg"
+          "assets/3611a1f12b3099d8fe.svg",
+          "assets/01bad215fcb22e8c91.svg"
         ],
         "editorial": null
       }
@@ -24700,7 +24930,8 @@
           ]
         },
         "figures": [
-          "assets/e1a103bbb0d7c2260b.svg"
+          "assets/e1a103bbb0d7c2260b.svg",
+          "assets/6d3b6051be1031c72f.svg"
         ],
         "editorial": null
       }
@@ -24870,7 +25101,8 @@
           ]
         },
         "figures": [
-          "assets/a47bfa58b2161b826e.svg"
+          "assets/a47bfa58b2161b826e.svg",
+          "assets/aa59c547d5e6a10200.svg"
         ],
         "editorial": null
       }
@@ -25913,7 +26145,8 @@
           ]
         },
         "figures": [
-          "assets/b55ec0934ce286e4a6.svg"
+          "assets/b55ec0934ce286e4a6.svg",
+          "assets/e01864db5c536884dd.svg"
         ],
         "editorial": null
       },
@@ -25950,7 +26183,8 @@
           ]
         },
         "figures": [
-          "assets/3bb01f5972174a08f3.svg"
+          "assets/3bb01f5972174a08f3.svg",
+          "assets/6d98d9f1f3b15a45e1.svg"
         ],
         "editorial": null
       },
@@ -26159,7 +26393,14 @@
           ]
         },
         "figures": [
-          "assets/5da205b4137457b55b.svg"
+          "assets/5da205b4137457b55b.svg",
+          "assets/6f5456b7ef078d6700.svg",
+          "assets/0afbe73a7e31d31e69.svg",
+          "assets/619bc2da368be2a73b.svg",
+          "assets/3c98ebf564f7825762.svg",
+          "assets/fadf48e43c3cf40f94.svg",
+          "assets/173e53c3163ecbab10.svg",
+          "assets/acd2e15e4be30becbd.svg"
         ],
         "editorial": null
       }
@@ -26280,7 +26521,14 @@
           ]
         },
         "figures": [
-          "assets/e274f5b7348668605e.svg"
+          "assets/e274f5b7348668605e.svg",
+          "assets/dccb2eb97521afba26.svg",
+          "assets/13b0dd0bf068cad8ad.svg",
+          "assets/2471a705825caf1341.svg",
+          "assets/1e6131dbfa7af93dc7.svg",
+          "assets/17c8b53ab7d1659c05.svg",
+          "assets/0ff6ebeb204dc3f4aa.svg",
+          "assets/8ae7d3d6199e3f0011.svg"
         ],
         "editorial": null
       }
@@ -26335,7 +26583,9 @@
           ]
         },
         "figures": [
-          "assets/4cb7500632963ea9ff.svg"
+          "assets/4cb7500632963ea9ff.svg",
+          "assets/21ff61b033445e08c2.svg",
+          "assets/048590261ad7b53398.svg"
         ],
         "editorial": null
       }
@@ -26390,7 +26640,11 @@
           ]
         },
         "figures": [
-          "assets/77d07097be5e7961b6.svg"
+          "assets/77d07097be5e7961b6.svg",
+          "assets/7105fae73694a7a755.svg",
+          "assets/52f09f3dfc886fbd0c.svg",
+          "assets/74b18eab27457b0bbc.svg",
+          "assets/e96fb6a430f87e0774.svg"
         ],
         "editorial": null
       }
@@ -26445,7 +26699,12 @@
           ]
         },
         "figures": [
-          "assets/9b12bcd8b7f9bf4856.svg"
+          "assets/9b12bcd8b7f9bf4856.svg",
+          "assets/e3c004342a9007f6f8.svg",
+          "assets/4360e3e751b0036f97.svg",
+          "assets/23c5f83e109905d945.svg",
+          "assets/f8229dda6b1a76b484.svg",
+          "assets/4f0487a38004d2565f.svg"
         ],
         "editorial": null
       }
@@ -27004,7 +27263,8 @@
           ]
         },
         "figures": [
-          "assets/c57db54c6e6cb70b80.svg"
+          "assets/c57db54c6e6cb70b80.svg",
+          "assets/f58b2516f87cc523d3.svg"
         ],
         "editorial": null
       }
@@ -27847,7 +28107,14 @@
           ]
         },
         "figures": [
-          "assets/bbd482a8e73fdbdfb9.svg"
+          "assets/bbd482a8e73fdbdfb9.svg",
+          "assets/e6e961d7c48682acb8.svg",
+          "assets/6e25d0b5908aee493b.svg",
+          "assets/a55ad72c7df935bc19.svg",
+          "assets/4ce1505720f4d81d6c.svg",
+          "assets/a1ae4bb09bfe6aba66.svg",
+          "assets/927406ad7812c05f9c.svg",
+          "assets/9e533d11cde0311a9e.svg"
         ],
         "editorial": null
       }
@@ -27902,7 +28169,12 @@
           ]
         },
         "figures": [
-          "assets/28f24d5737ef16311e.svg"
+          "assets/28f24d5737ef16311e.svg",
+          "assets/69372217721a95c217.svg",
+          "assets/58149c964eca92cda9.svg",
+          "assets/2ec650c8245354c07a.svg",
+          "assets/1640c6fbb30ade879d.svg",
+          "assets/89ed7f72579902df53.svg"
         ],
         "editorial": null
       }
@@ -28213,7 +28485,10 @@
           ]
         },
         "figures": [
-          "assets/f1496e0d8c3dbeadc7.svg"
+          "assets/f1496e0d8c3dbeadc7.svg",
+          "assets/80040140cb3b14f36f.svg",
+          "assets/ba1da4753eaaf480f9.svg",
+          "assets/85e08ddf4625240ea3.svg"
         ],
         "editorial": null
       }
@@ -28514,7 +28789,8 @@
           ]
         },
         "figures": [
-          "assets/5330fb920eaaa2406a.svg"
+          "assets/5330fb920eaaa2406a.svg",
+          "assets/231a1940effc6e458b.svg"
         ],
         "editorial": null
       }
@@ -28568,7 +28844,10 @@
           ]
         },
         "figures": [
-          "assets/a23f37f6f9566bb592.svg"
+          "assets/a23f37f6f9566bb592.svg",
+          "assets/3c914076584d240365.svg",
+          "assets/1e25140b0ecc9bf8bc.svg",
+          "assets/d50cc4444db70c1b14.svg"
         ],
         "editorial": null
       }
@@ -28625,7 +28904,11 @@
           ]
         },
         "figures": [
-          "assets/41609e2752a34c1b0d.svg"
+          "assets/41609e2752a34c1b0d.svg",
+          "assets/06ce18483227d59b86.svg",
+          "assets/e8a7c9fffd7d97c562.svg",
+          "assets/18e026ee0671ce75e3.svg",
+          "assets/41a777fa13da276de1.svg"
         ],
         "editorial": null
       }
@@ -28680,7 +28963,11 @@
           ]
         },
         "figures": [
-          "assets/363074fd1efdf927c8.svg"
+          "assets/363074fd1efdf927c8.svg",
+          "assets/021203032629a7b80d.svg",
+          "assets/aa545a23692608b23f.svg",
+          "assets/5225d0613fc71686d2.svg",
+          "assets/02a9e46401013e3e2e.svg"
         ],
         "editorial": null
       }
@@ -28735,7 +29022,13 @@
           ]
         },
         "figures": [
-          "assets/33474e0dbd1c5debe8.svg"
+          "assets/33474e0dbd1c5debe8.svg",
+          "assets/550a7aad005470d5d0.svg",
+          "assets/5132f673db6110cd49.svg",
+          "assets/1ec3d2e228e2895fe9.svg",
+          "assets/05d91efe93f984eeae.svg",
+          "assets/3499ca14a4a2c08343.svg",
+          "assets/a549b73392810f2992.svg"
         ],
         "editorial": null
       }
@@ -28790,7 +29083,10 @@
           ]
         },
         "figures": [
-          "assets/aca5c8f26f361bb405.svg"
+          "assets/aca5c8f26f361bb405.svg",
+          "assets/19c5e95981d1137a7b.svg",
+          "assets/eea1e58bb123ce036d.svg",
+          "assets/fb8d4400876f277c60.svg"
         ],
         "editorial": null
       }
@@ -29568,7 +29864,9 @@
           ]
         },
         "figures": [
-          "assets/b5ec0abaab067d9542.svg"
+          "assets/b5ec0abaab067d9542.svg",
+          "assets/8a9354f4526e7e061a.svg",
+          "assets/d98f8f673788fc8deb.svg"
         ],
         "editorial": null
       }
@@ -29874,7 +30172,8 @@
           ]
         },
         "figures": [
-          "assets/a8cb690c6b3e41447f.svg"
+          "assets/a8cb690c6b3e41447f.svg",
+          "assets/9d922464171f0a36fc.svg"
         ],
         "editorial": null
       },
@@ -30024,6 +30323,7 @@
         "teaching": {},
         "figures": [
           "assets/a9a8fe55ed1f9899f7.svg",
+          "assets/3f226dd5901285e0fc.svg",
           "assets/50f2fe37be5ab43a13.svg"
         ],
         "editorial": {
@@ -30840,7 +31140,8 @@
           ]
         },
         "figures": [
-          "assets/2dc00a8546454f06ad.svg"
+          "assets/2dc00a8546454f06ad.svg",
+          "assets/e776bb7114eafb64f3.svg"
         ],
         "editorial": null
       }
@@ -30976,7 +31277,8 @@
           ]
         },
         "figures": [
-          "assets/35d31e0da2af156657.svg"
+          "assets/35d31e0da2af156657.svg",
+          "assets/8883f255ebe99afad9.svg"
         ],
         "editorial": null
       }
@@ -31234,7 +31536,13 @@
           ]
         },
         "figures": [
-          "assets/cc07b489985883d349.svg"
+          "assets/cc07b489985883d349.svg",
+          "assets/4013ef1db4c8d97fcb.svg",
+          "assets/bdaf93e2b25b248823.svg",
+          "assets/fac9cc90ad92ccacae.svg",
+          "assets/3dc2daacaae5f81af8.svg",
+          "assets/7f477ad7fbd05dd571.svg",
+          "assets/a0e01ee2df46b863d6.svg"
         ],
         "editorial": null
       }
@@ -31290,7 +31598,8 @@
           ]
         },
         "figures": [
-          "assets/393f0f93bf2f9edddf.svg"
+          "assets/393f0f93bf2f9edddf.svg",
+          "assets/6e96e3a25a5e847cbb.svg"
         ],
         "editorial": null
       }
@@ -31342,7 +31651,11 @@
           ]
         },
         "figures": [
-          "assets/255887ebb15cf6865d.svg"
+          "assets/255887ebb15cf6865d.svg",
+          "assets/c92568763f46bdb02b.svg",
+          "assets/438ef6c667d0826b4e.svg",
+          "assets/b5fbdd8bd2f4b24b28.svg",
+          "assets/583268778791ea42bb.svg"
         ],
         "editorial": null
       }
@@ -31396,7 +31709,14 @@
           ]
         },
         "figures": [
-          "assets/e2d3fafef6c7da2d1d.svg"
+          "assets/e2d3fafef6c7da2d1d.svg",
+          "assets/9bdf039089be7e2128.svg",
+          "assets/04f6cf3c4b7f79dba9.svg",
+          "assets/df5fd63075b9632c50.svg",
+          "assets/d4e1f98614b3725a72.svg",
+          "assets/69ceb9637bfc24c61e.svg",
+          "assets/452d2cd279251fc8e7.svg",
+          "assets/d1cf7867fa24f0efe6.svg"
         ],
         "editorial": null
       }
@@ -31452,7 +31772,10 @@
           ]
         },
         "figures": [
-          "assets/52c7dbf7ce2487b4f7.svg"
+          "assets/52c7dbf7ce2487b4f7.svg",
+          "assets/0b39e9032a2bf1795b.svg",
+          "assets/d43b04a21d1c936324.svg",
+          "assets/53a3275a6a2e1edb30.svg"
         ],
         "editorial": null
       }
@@ -31505,7 +31828,9 @@
           ]
         },
         "figures": [
-          "assets/21d4ce4e9cd23a0ff5.svg"
+          "assets/21d4ce4e9cd23a0ff5.svg",
+          "assets/88f65a311f2f60cb98.svg",
+          "assets/ffab7b1033b6e1c089.svg"
         ],
         "editorial": null
       }
@@ -33936,7 +34261,10 @@
           ]
         },
         "figures": [
-          "assets/cd57b55ffda01da860.svg"
+          "assets/cd57b55ffda01da860.svg",
+          "assets/bf8f93360c97de7227.svg",
+          "assets/e1dd24e284cda04336.svg",
+          "assets/0e18027207bb53613d.svg"
         ],
         "editorial": null
       }
@@ -33992,7 +34320,13 @@
           ]
         },
         "figures": [
-          "assets/5f3a7e35f5d5d98bde.svg"
+          "assets/5f3a7e35f5d5d98bde.svg",
+          "assets/140e3ec2b885b3497c.svg",
+          "assets/a956776c9f2c0e8b8a.svg",
+          "assets/2e87c43d69e8b7e42a.svg",
+          "assets/3dfcd354a3df348a41.svg",
+          "assets/6d6c5d9a5d00e887e9.svg",
+          "assets/595be0ab0fa7917d2e.svg"
         ],
         "editorial": null
       }
@@ -34046,7 +34380,13 @@
           ]
         },
         "figures": [
-          "assets/dccb2eb97521afba26.svg"
+          "assets/dccb2eb97521afba26.svg",
+          "assets/13b0dd0bf068cad8ad.svg",
+          "assets/2471a705825caf1341.svg",
+          "assets/1e6131dbfa7af93dc7.svg",
+          "assets/17c8b53ab7d1659c05.svg",
+          "assets/0ff6ebeb204dc3f4aa.svg",
+          "assets/8ae7d3d6199e3f0011.svg"
         ],
         "editorial": null
       }
@@ -34102,7 +34442,13 @@
           ]
         },
         "figures": [
-          "assets/c776d0c2b3b3e9a9b8.svg"
+          "assets/c776d0c2b3b3e9a9b8.svg",
+          "assets/6b6140cfdf1b2d7ea0.svg",
+          "assets/43f599bdb6105672a2.svg",
+          "assets/af47944a19398f36d9.svg",
+          "assets/729711011c9064c166.svg",
+          "assets/5872d51cedceade9f9.svg",
+          "assets/1049c758e28bc2a24e.svg"
         ],
         "editorial": null
       }
@@ -34131,6 +34477,15 @@
         "teaching": {},
         "figures": [
           "assets/d6dbb7618ba79885ff.svg",
+          "assets/55a608e013d83afd67.svg",
+          "assets/ff053050b9b7dd1a3e.svg",
+          "assets/64cbd5a668ee4a443a.svg",
+          "assets/d001705706c361ddc0.svg",
+          "assets/52533e70a8de8b7ab8.svg",
+          "assets/3a42fe76d8b8764554.svg",
+          "assets/145193c35fa4b23cff.svg",
+          "assets/daa505477a2b94f8fb.svg",
+          "assets/9cac75b7a9e51a0e57.svg",
           "assets/776d2b9a30531ca949.svg",
           "assets/f40bda862da3ddf840.svg",
           "assets/aec07b299090c0838a.svg",
@@ -34784,6 +35139,7 @@
         "teaching": {},
         "figures": [
           "assets/6925cb47921f191186.svg",
+          "assets/3c8ac73dd9d5f265db.svg",
           "assets/98413693980dd2b78f.svg"
         ],
         "editorial": {
@@ -35228,7 +35584,8 @@
           ]
         },
         "figures": [
-          "assets/769451fc7fdf97f9e4.svg"
+          "assets/769451fc7fdf97f9e4.svg",
+          "assets/72d8502e09b4dd2390.svg"
         ],
         "editorial": null
       }
@@ -35635,6 +35992,7 @@
         "teaching": {},
         "figures": [
           "assets/f836015ecb6146fe89.svg",
+          "assets/780264e9988205e7e7.svg",
           "assets/0c6674dda3ea28aaf9.svg",
           "assets/a7ee0e0d347b1e2c43.svg"
         ],
@@ -36438,7 +36796,12 @@
           ]
         },
         "figures": [
-          "assets/256d78cd5678cb7408.svg"
+          "assets/256d78cd5678cb7408.svg",
+          "assets/485e1e2ad1c3d933a1.svg",
+          "assets/752592df08528dc8fd.svg",
+          "assets/f8386049c7b158dad2.svg",
+          "assets/56bcbe0d7498952c53.svg",
+          "assets/4746c391af451ad159.svg"
         ],
         "editorial": null
       }
@@ -36556,7 +36919,13 @@
           ]
         },
         "figures": [
-          "assets/7cbf09047571699b75.svg"
+          "assets/7cbf09047571699b75.svg",
+          "assets/91be93ad71351b6ec1.svg",
+          "assets/8cef90a7ecc9cef1a0.svg",
+          "assets/482813c6b70103b782.svg",
+          "assets/eb9941daede9b40265.svg",
+          "assets/efafe33095cdc387da.svg",
+          "assets/107a140ecdae3296a0.svg"
         ],
         "editorial": null
       }
@@ -36614,7 +36983,14 @@
           ]
         },
         "figures": [
-          "assets/5ff577f5402e95d5a8.svg"
+          "assets/5ff577f5402e95d5a8.svg",
+          "assets/bb69dc4c7b10139709.svg",
+          "assets/620c90e7802151499e.svg",
+          "assets/a6fdbdb42e1dd7312a.svg",
+          "assets/a51ddec2892bfd6086.svg",
+          "assets/6d1b702fa0e4ca245f.svg",
+          "assets/14669b45ab594c2048.svg",
+          "assets/1dff0c3ce921273ba0.svg"
         ],
         "editorial": null
       }
@@ -36671,7 +37047,13 @@
           ]
         },
         "figures": [
-          "assets/ae22958afffdc05fdf.svg"
+          "assets/ae22958afffdc05fdf.svg",
+          "assets/7e3cee3f7cf426e946.svg",
+          "assets/c8bb8840c3092d0d07.svg",
+          "assets/c1a97235c4c595efd8.svg",
+          "assets/5eff0718b0ab5579ea.svg",
+          "assets/712d5e440a68d9f048.svg",
+          "assets/feeb2587afe46c6515.svg"
         ],
         "editorial": null
       }
@@ -36727,7 +37109,10 @@
           ]
         },
         "figures": [
-          "assets/52c7dbf7ce2487b4f7.svg"
+          "assets/52c7dbf7ce2487b4f7.svg",
+          "assets/0b39e9032a2bf1795b.svg",
+          "assets/d43b04a21d1c936324.svg",
+          "assets/53a3275a6a2e1edb30.svg"
         ],
         "editorial": null
       }
@@ -36757,6 +37142,12 @@
         "teaching": {},
         "figures": [
           "assets/ea8dc47188019d26d9.svg",
+          "assets/253a3ba312b518517e.svg",
+          "assets/90ceb81da79fbbf27f.svg",
+          "assets/a2965f4626d4d29c63.svg",
+          "assets/cbbb6cefd5992622d2.svg",
+          "assets/adf0412da8e37b1b35.svg",
+          "assets/3294cbb91c04810eff.svg",
           "assets/0984e4dcaadb9bbbcd.svg",
           "assets/8c37df60e20207af91.svg",
           "assets/bde1cc0a62f091e72f.svg",
@@ -37768,6 +38159,7 @@
         "teaching": {},
         "figures": [
           "assets/12331d85e7897f1d25.svg",
+          "assets/630efcb3925e374398.svg",
           "assets/c9e38cbba75d988865.svg"
         ],
         "editorial": {
@@ -37989,7 +38381,8 @@
           ]
         },
         "figures": [
-          "assets/77ba156da6a67b11dd.svg"
+          "assets/77ba156da6a67b11dd.svg",
+          "assets/44b7c96ce967fa6690.svg"
         ],
         "editorial": null
       }
@@ -38104,7 +38497,8 @@
           ]
         },
         "figures": [
-          "assets/319e4cb4adcc8643db.svg"
+          "assets/319e4cb4adcc8643db.svg",
+          "assets/547bbf1fd823ed76cc.svg"
         ],
         "editorial": null
       }
@@ -38638,7 +39032,9 @@
           ]
         },
         "figures": [
-          "assets/ed8fb9ff4aefdd36d0.svg"
+          "assets/ed8fb9ff4aefdd36d0.svg",
+          "assets/b86f8a5ced9f39acab.svg",
+          "assets/42a39f92c4eb5ac5ef.svg"
         ],
         "editorial": null
       },
@@ -39389,7 +39785,10 @@
           ]
         },
         "figures": [
-          "assets/ae2143685910f4491f.svg"
+          "assets/ae2143685910f4491f.svg",
+          "assets/2f60d5def016cf517e.svg",
+          "assets/64bfbff3e5cd4160b9.svg",
+          "assets/6a41751355a72546d6.svg"
         ],
         "editorial": null
       }
@@ -39446,7 +39845,10 @@
           ]
         },
         "figures": [
-          "assets/9fbafa357e81649758.svg"
+          "assets/9fbafa357e81649758.svg",
+          "assets/02dc21dae72f96c620.svg",
+          "assets/f01a0ad1fdddfa413e.svg",
+          "assets/c64acdef3bd221058f.svg"
         ],
         "editorial": null
       }
@@ -39501,7 +39903,12 @@
           ]
         },
         "figures": [
-          "assets/e8f2718466c08d6702.svg"
+          "assets/e8f2718466c08d6702.svg",
+          "assets/90eadcfea42a2a511a.svg",
+          "assets/31908cfea06f57b257.svg",
+          "assets/f78d27f2d698f81990.svg",
+          "assets/1f371497059bc9e00b.svg",
+          "assets/9813e60e7ddeb56475.svg"
         ],
         "editorial": null
       }
@@ -39555,7 +39962,12 @@
           ]
         },
         "figures": [
-          "assets/ef4de58d6dce21c1a6.svg"
+          "assets/ef4de58d6dce21c1a6.svg",
+          "assets/c36d406e46597c613a.svg",
+          "assets/e54ad48064c003b6c0.svg",
+          "assets/39234d8d3390891685.svg",
+          "assets/51437869e2b44669dc.svg",
+          "assets/199db75e11d483b7d4.svg"
         ],
         "editorial": null
       }
@@ -39609,7 +40021,11 @@
           ]
         },
         "figures": [
-          "assets/c32ea90c9afde0c20b.svg"
+          "assets/c32ea90c9afde0c20b.svg",
+          "assets/7a03dedc1ad9612e77.svg",
+          "assets/683b3b0884e0eb3f37.svg",
+          "assets/83212f72aa7a178c72.svg",
+          "assets/b87a7ce6cb134360f8.svg"
         ],
         "editorial": null
       }
@@ -39671,7 +40087,12 @@
           ]
         },
         "figures": [
-          "assets/e8643488e2f5942785.svg"
+          "assets/e8643488e2f5942785.svg",
+          "assets/f469195987ad70f1c4.svg",
+          "assets/1f384f7fc893f311d6.svg",
+          "assets/ccb00ae337a695c544.svg",
+          "assets/9a2fad84a6797fd40d.svg",
+          "assets/5436b5f8f9b760ea22.svg"
         ],
         "editorial": null
       }
@@ -40275,6 +40696,7 @@
         "teaching": {},
         "figures": [
           "assets/075645a6e6fbc41da9.svg",
+          "assets/f9d65d6246c146c1ac.svg",
           "assets/fa4d50d0343b58023f.svg"
         ],
         "editorial": {
@@ -40491,7 +40913,9 @@
           ]
         },
         "figures": [
-          "assets/b5ec0abaab067d9542.svg"
+          "assets/b5ec0abaab067d9542.svg",
+          "assets/8a9354f4526e7e061a.svg",
+          "assets/af7ce0f660c686c539.svg"
         ],
         "editorial": null
       }
@@ -40705,8 +41129,8 @@
         "teaching": {},
         "figures": [
           "assets/2b9f056afb77db722f.svg",
-          "assets/feb4eccd96b3ce87a4.svg",
-          "assets/1ed8eecf61399d0256.svg"
+          "assets/1ed8eecf61399d0256.svg",
+          "assets/feb4eccd96b3ce87a4.svg"
         ],
         "editorial": {
           "question": "原NCCH2CH=CH2保持。限定腈基不参与、碳骨架不重排，分别令H加在末端或内部烯C，再由Cl负捕获另一烯C，画两个连接及前支的两种构型。指出原分子是否为与腈直接共轭的丙烯腈，比较形式正离子级数，不问实测比例。",
@@ -40780,7 +41204,8 @@
           ]
         },
         "figures": [
-          "assets/7671b2976dde2ee297.svg"
+          "assets/7671b2976dde2ee297.svg",
+          "assets/0fb1b5ecb74b84772c.svg"
         ],
         "editorial": null
       },
@@ -40886,6 +41311,7 @@
         "teaching": {},
         "figures": [
           "assets/a9a8fe55ed1f9899f7.svg",
+          "assets/3f226dd5901285e0fc.svg",
           "assets/50f2fe37be5ab43a13.svg"
         ],
         "editorial": {
@@ -42426,7 +42852,8 @@
           ]
         },
         "figures": [
-          "assets/393f0f93bf2f9edddf.svg"
+          "assets/393f0f93bf2f9edddf.svg",
+          "assets/6e96e3a25a5e847cbb.svg"
         ],
         "editorial": null
       }
@@ -42485,7 +42912,14 @@
           ]
         },
         "figures": [
-          "assets/3226ec7793e4b161a2.svg"
+          "assets/3226ec7793e4b161a2.svg",
+          "assets/60c06aecc0e5425ead.svg",
+          "assets/20c4b65cd7174ebf8f.svg",
+          "assets/45d3c807546ea8d0a8.svg",
+          "assets/9220a46747c2f15f9a.svg",
+          "assets/4626346e586c7ca498.svg",
+          "assets/ba3d0166f161d6feb0.svg",
+          "assets/22a9142552762425ae.svg"
         ],
         "editorial": null
       }
@@ -42539,7 +42973,12 @@
           ]
         },
         "figures": [
-          "assets/b6bf7b5e0686116854.svg"
+          "assets/b6bf7b5e0686116854.svg",
+          "assets/bcd164954394c4bfec.svg",
+          "assets/b72d3a34b22822c29e.svg",
+          "assets/bb395455280f3b982a.svg",
+          "assets/3b6549f30f3a676c1b.svg",
+          "assets/4c50309a06fe826ec4.svg"
         ],
         "editorial": null
       }
@@ -42593,7 +43032,12 @@
           ]
         },
         "figures": [
-          "assets/1dc32d4cbf05b113dd.svg"
+          "assets/1dc32d4cbf05b113dd.svg",
+          "assets/b38a2a8e6f327ec8ad.svg",
+          "assets/337b41936a0e1124c5.svg",
+          "assets/9f9a85213facc82d84.svg",
+          "assets/7067937171f4f444bb.svg",
+          "assets/df47c10584c1cfdc6c.svg"
         ],
         "editorial": null
       }
@@ -42643,7 +43087,10 @@
           ]
         },
         "figures": [
-          "assets/381a858750a417cff4.svg"
+          "assets/381a858750a417cff4.svg",
+          "assets/ed1c8ded79d7d379f9.svg",
+          "assets/08e6180dfc9a56fd8a.svg",
+          "assets/b174879ae64fea0711.svg"
         ],
         "editorial": null
       }
@@ -42698,7 +43145,11 @@
           ]
         },
         "figures": [
-          "assets/41845e34fecab94e3c.svg"
+          "assets/41845e34fecab94e3c.svg",
+          "assets/2c35f7ab1e44626c27.svg",
+          "assets/a89d0a1b5eb46b3718.svg",
+          "assets/d7958f3133aeab81a9.svg",
+          "assets/bb5370e4f5814c1eaf.svg"
         ],
         "editorial": null
       }
@@ -45107,7 +45558,10 @@
           ]
         },
         "figures": [
-          "assets/83077602cc6efa59f5.svg"
+          "assets/83077602cc6efa59f5.svg",
+          "assets/e23e087baa309298bb.svg",
+          "assets/7869808db155b228f8.svg",
+          "assets/388521229c5e8bab90.svg"
         ],
         "editorial": null
       }
@@ -45157,7 +45611,8 @@
           ]
         },
         "figures": [
-          "assets/fcadd6a199eb59942c.svg"
+          "assets/fcadd6a199eb59942c.svg",
+          "assets/8df2ead55bbe3d9015.svg"
         ],
         "editorial": null
       }
@@ -45209,7 +45664,12 @@
           ]
         },
         "figures": [
-          "assets/85676c578504421fab.svg"
+          "assets/85676c578504421fab.svg",
+          "assets/ba364572d6f292cefb.svg",
+          "assets/0e2a799f2039dc8485.svg",
+          "assets/562306c19fa27faa4e.svg",
+          "assets/2f50845f27eb79d571.svg",
+          "assets/43d3a6d3afe351843c.svg"
         ],
         "editorial": null
       }
@@ -45266,7 +45726,18 @@
           ]
         },
         "figures": [
-          "assets/46f80fc9d0dcce8f4f.svg"
+          "assets/46f80fc9d0dcce8f4f.svg",
+          "assets/c288154f0dace8c435.svg",
+          "assets/a25d626ec7cb5ab079.svg",
+          "assets/bcbbefb046508ad61d.svg",
+          "assets/d158c99e8830de68e0.svg",
+          "assets/077e270bc421154cea.svg",
+          "assets/9e7a37a46defdf3a1f.svg",
+          "assets/ce53eb089abb238118.svg",
+          "assets/f0bc9c46f15eb62eba.svg",
+          "assets/9541b0a62da1c6ab29.svg",
+          "assets/4b7dcc8619f6c804ae.svg",
+          "assets/56e06e7224777b2325.svg"
         ],
         "editorial": null
       }
@@ -45328,7 +45799,17 @@
           ]
         },
         "figures": [
-          "assets/3ab2477425046f825e.svg"
+          "assets/3ab2477425046f825e.svg",
+          "assets/39e9658a45378e9260.svg",
+          "assets/c61f6cff416b46b35b.svg",
+          "assets/caecd91dd7fccf4461.svg",
+          "assets/fac14ebe41bf33a9a5.svg",
+          "assets/39f7e08f6e6eedf024.svg",
+          "assets/50bccfc6fff110f8ef.svg",
+          "assets/5886435e63f794589c.svg",
+          "assets/8b6ab2c2e14489a41d.svg",
+          "assets/4fcd450bff46d204db.svg",
+          "assets/b76f8ea3d1b4dc5f5d.svg"
         ],
         "editorial": null
       }
@@ -46596,7 +47077,8 @@
           ]
         },
         "figures": [
-          "assets/44e98d56d98fdb85f0.svg"
+          "assets/44e98d56d98fdb85f0.svg",
+          "assets/772586501cbd292070.svg"
         ],
         "editorial": null
       }
@@ -47760,7 +48242,8 @@
           ]
         },
         "figures": [
-          "assets/0667eff28eb6212c23.svg"
+          "assets/0667eff28eb6212c23.svg",
+          "assets/1f84098268306d65aa.svg"
         ],
         "editorial": null
       }
@@ -47923,11 +48406,11 @@
         "teaching": {},
         "figures": [
           "assets/08f93612d526cdc409.svg",
-          "assets/22f316b1bffec62b13.svg",
-          "assets/2ab4ca78c670ab15ba.svg",
           "assets/c50a0023bf1b9c36bf.svg",
           "assets/32afca9a94a947f19e.svg",
-          "assets/3e35e62c6802dce477.svg"
+          "assets/3e35e62c6802dce477.svg",
+          "assets/22f316b1bffec62b13.svg",
+          "assets/2ab4ca78c670ab15ba.svg"
         ],
         "editorial": {
           "question": "原新戊基溴BrCH2C(Me)3保持。编辑给定C—Br离解由Ag+捕获Br负离子、形成AgBr驱动，并允许邻Me与离去耦合迁移，要求画到三级碳正离子的电子对弯箭，再画EtOH捕获和去H生成醚，以及从相邻CH2消除形成较高取代烯的完整机理。另列三级正离子从等价Me去H所得另一烯。为什么原EtO负不能使原物直接E2？",
@@ -48007,7 +48490,10 @@
           ]
         },
         "figures": [
-          "assets/b67f2c6eaf9f337303.svg"
+          "assets/b67f2c6eaf9f337303.svg",
+          "assets/647ae90092df807576.svg",
+          "assets/06189b93e30ea43fc3.svg",
+          "assets/bc55e7dab023e1c994.svg"
         ],
         "editorial": null
       }
@@ -48061,7 +48547,14 @@
           ]
         },
         "figures": [
-          "assets/d1728a4904a8aae914.svg"
+          "assets/d1728a4904a8aae914.svg",
+          "assets/fb8f8683c4390c0963.svg",
+          "assets/df23464b8c9bf136a4.svg",
+          "assets/797b40b5b3d1d78a02.svg",
+          "assets/3fb345f6bc2dc188f1.svg",
+          "assets/07fe703c6b27161286.svg",
+          "assets/c8dd08fb87463f5e7d.svg",
+          "assets/30f7abad7e1a47de9f.svg"
         ],
         "editorial": null
       }
@@ -48115,7 +48608,15 @@
           ]
         },
         "figures": [
-          "assets/a7a2a9c488424f24a1.svg"
+          "assets/a7a2a9c488424f24a1.svg",
+          "assets/1c76cfbabd42ab7850.svg",
+          "assets/8780e3c211b49e8251.svg",
+          "assets/fc8371337554efa446.svg",
+          "assets/3bc85418a79da73284.svg",
+          "assets/b8f7e7aa78e49da93f.svg",
+          "assets/94ae4af8d3a310ee56.svg",
+          "assets/607f79fc150a57cdd4.svg",
+          "assets/c703cc8ab3f5869237.svg"
         ],
         "editorial": null
       }
@@ -48166,7 +48667,9 @@
           ]
         },
         "figures": [
-          "assets/7cabc3afbac12f4520.svg"
+          "assets/7cabc3afbac12f4520.svg",
+          "assets/3e9a8a2739c6d7df36.svg",
+          "assets/c48689b6601854520b.svg"
         ],
         "editorial": null
       }
@@ -48226,7 +48729,13 @@
           ]
         },
         "figures": [
-          "assets/0e571b16ba507483e3.svg"
+          "assets/0e571b16ba507483e3.svg",
+          "assets/00f4b8b77020ddf614.svg",
+          "assets/c494665144618763ff.svg",
+          "assets/d06862d35e1d0aee31.svg",
+          "assets/12fc65b49d85f6e9a0.svg",
+          "assets/2891173f80f3590849.svg",
+          "assets/8b4b869cf61e5b73c2.svg"
         ],
         "editorial": null
       }
@@ -48661,6 +49170,7 @@
         "teaching": {},
         "figures": [
           "assets/a6be76257a84e05c4f.svg",
+          "assets/c726a767309918e41f.svg",
           "assets/8a131d3c7f346b6a81.svg"
         ],
         "editorial": {
@@ -48760,6 +49270,8 @@
         "teaching": {},
         "figures": [
           "assets/6a833c9939e8f0f22f.svg",
+          "assets/56bb953e63ef30d6f4.svg",
+          "assets/7f88957ebed92f1aaf.svg",
           "assets/f8c91f4926c8f300ab.svg"
         ],
         "editorial": {
@@ -49237,6 +49749,7 @@
         "teaching": {},
         "figures": [
           "assets/4490be12812ae85876.svg",
+          "assets/8441b070ac88e07467.svg",
           "assets/564f033b9a9b9165e5.svg"
         ],
         "editorial": {
@@ -49725,7 +50238,10 @@
           ]
         },
         "figures": [
-          "assets/45d21a4ea560234830.svg"
+          "assets/45d21a4ea560234830.svg",
+          "assets/e2ee22fbaed6a9c31d.svg",
+          "assets/26a2fd7e9dded9dbcd.svg",
+          "assets/fdb9986b7b554779ce.svg"
         ],
         "editorial": null
       }
@@ -49979,7 +50495,9 @@
           ]
         },
         "figures": [
-          "assets/7ba5b72158f9a9327c.svg"
+          "assets/7ba5b72158f9a9327c.svg",
+          "assets/f318fab1383624488e.svg",
+          "assets/a61d281e0e70352136.svg"
         ],
         "editorial": null
       }
@@ -50033,7 +50551,11 @@
           ]
         },
         "figures": [
-          "assets/5cf02bfaf7afb46559.svg"
+          "assets/5cf02bfaf7afb46559.svg",
+          "assets/2e624e91b3b096777c.svg",
+          "assets/ed21434a47bbdf60d6.svg",
+          "assets/1b6c468244a0bdae1f.svg",
+          "assets/46896e3cb18aa0235f.svg"
         ],
         "editorial": null
       }
@@ -50087,7 +50609,8 @@
           ]
         },
         "figures": [
-          "assets/17c61b4922a3d9933e.svg"
+          "assets/17c61b4922a3d9933e.svg",
+          "assets/699ab87bd3b45873e1.svg"
         ],
         "editorial": null
       }
@@ -50145,7 +50668,17 @@
           ]
         },
         "figures": [
-          "assets/5372f116f2bb4caa19.svg"
+          "assets/5372f116f2bb4caa19.svg",
+          "assets/f5297243d4ab54d78f.svg",
+          "assets/eb082cfa9b420fb2ae.svg",
+          "assets/5b659f7dff63739628.svg",
+          "assets/e2bd9e53ea766d5ed7.svg",
+          "assets/d4a3bfb30f564b6006.svg",
+          "assets/ea372fb0d168e184ed.svg",
+          "assets/78129a17e5f9218bc1.svg",
+          "assets/ba6cc8524c977d8543.svg",
+          "assets/fea1bab044f22ba0d1.svg",
+          "assets/81018f9439abea9dc9.svg"
         ],
         "editorial": null
       }
@@ -50174,6 +50707,8 @@
         "teaching": {},
         "figures": [
           "assets/c69b218a78bfd530c3.svg",
+          "assets/ea5a4dd4d7adb90638.svg",
+          "assets/39c37620bb014d1519.svg",
           "assets/c40380f90e359635a8.svg",
           "assets/ee37d9c5a4236a2381.svg",
           "assets/858d37d12a90e9929b.svg",
@@ -50257,7 +50792,14 @@
           ]
         },
         "figures": [
-          "assets/b98bff638cd4867a66.svg"
+          "assets/b98bff638cd4867a66.svg",
+          "assets/90523a233131aa5276.svg",
+          "assets/5ace5351f618dec15a.svg",
+          "assets/0822918ff394c8e175.svg",
+          "assets/f00726766c07796f77.svg",
+          "assets/e3b7eef213382b8e4e.svg",
+          "assets/9997faf6e82ebb6e38.svg",
+          "assets/ebbaffd355b7b920b5.svg"
         ],
         "editorial": null
       }
@@ -50309,7 +50851,9 @@
           ]
         },
         "figures": [
-          "assets/c9140c9024246a9c5f.svg"
+          "assets/c9140c9024246a9c5f.svg",
+          "assets/e10887d28c3f1c4d45.svg",
+          "assets/c477fb2c63c63024ef.svg"
         ],
         "editorial": null
       }
@@ -50355,7 +50899,9 @@
           ]
         },
         "figures": [
-          "assets/5f6d17a29ac3079b21.svg"
+          "assets/5f6d17a29ac3079b21.svg",
+          "assets/56e7d825bdd7db4ebd.svg",
+          "assets/f3f5dacb0698eb84c3.svg"
         ],
         "editorial": null
       }
@@ -50410,7 +50956,10 @@
           ]
         },
         "figures": [
-          "assets/8ffcbc0e065eba1c87.svg"
+          "assets/8ffcbc0e065eba1c87.svg",
+          "assets/738cae7c6221d7826e.svg",
+          "assets/455336202fee609ee9.svg",
+          "assets/aa6ed656b818d7f8a1.svg"
         ],
         "editorial": null
       }
@@ -50508,7 +51057,9 @@
           ]
         },
         "figures": [
-          "assets/575f6e37a35d3212c3.svg"
+          "assets/575f6e37a35d3212c3.svg",
+          "assets/d13ffd55b7e457fd7b.svg",
+          "assets/7865b25bf5307ad308.svg"
         ],
         "editorial": null
       }
@@ -51033,7 +51584,8 @@
           ]
         },
         "figures": [
-          "assets/1dc97c281d89801206.svg"
+          "assets/1dc97c281d89801206.svg",
+          "assets/35b37ff48fed3e85c0.svg"
         ],
         "editorial": null
       }
@@ -51171,7 +51723,8 @@
           ]
         },
         "figures": [
-          "assets/f97076861dfc585d0f.svg"
+          "assets/f97076861dfc585d0f.svg",
+          "assets/1ac068760032c44657.svg"
         ],
         "editorial": null
       }
@@ -51565,7 +52118,8 @@
           ]
         },
         "figures": [
-          "assets/acd4b9a354e4730948.svg"
+          "assets/acd4b9a354e4730948.svg",
+          "assets/b08084a41671d06967.svg"
         ],
         "editorial": null
       }
@@ -51628,6 +52182,7 @@
         "teaching": {},
         "figures": [
           "assets/a91d0837e5be617d62.svg",
+          "assets/23b8efa030b76659a2.svg",
           "assets/70a839ab8b23f77f0d.svg",
           "assets/7ac47bbcb7cb81c93b.svg"
         ],
@@ -51740,6 +52295,8 @@
         "teaching": {},
         "figures": [
           "assets/805a1dc488d9c907b1.svg",
+          "assets/dac47a87120e6db17f.svg",
+          "assets/e9ea176ee66e2dc30a.svg",
           "assets/a020afe0380e93cdde.svg"
         ],
         "editorial": {
@@ -51818,7 +52375,9 @@
           ]
         },
         "figures": [
-          "assets/1ccc123c2572bfafee.svg"
+          "assets/1ccc123c2572bfafee.svg",
+          "assets/20534969eb9863e3d9.svg",
+          "assets/5e11bc3915a9e46522.svg"
         ],
         "editorial": null
       }
@@ -52682,7 +53241,8 @@
           ]
         },
         "figures": [
-          "assets/379e6e307edd154c5f.svg"
+          "assets/379e6e307edd154c5f.svg",
+          "assets/1d7ffd3e319084b0b5.svg"
         ],
         "editorial": null
       }
@@ -52802,7 +53362,8 @@
           ]
         },
         "figures": [
-          "assets/e2910f0a2419553a91.svg"
+          "assets/e2910f0a2419553a91.svg",
+          "assets/1bd7350e148e3e8178.svg"
         ],
         "editorial": null
       }
@@ -52865,6 +53426,7 @@
         "teaching": {},
         "figures": [
           "assets/c158803da8d01cd275.svg",
+          "assets/1657e68fcdca3e392a.svg",
           "assets/a8b99cc72bacb36edc.svg"
         ],
         "editorial": {
@@ -52996,7 +53558,8 @@
           ]
         },
         "figures": [
-          "assets/590409a2cafd810718.svg"
+          "assets/590409a2cafd810718.svg",
+          "assets/cddb52330a889f64da.svg"
         ],
         "editorial": null
       }
@@ -53051,7 +53614,12 @@
           ]
         },
         "figures": [
-          "assets/2c8fba353cc60b474a.svg"
+          "assets/2c8fba353cc60b474a.svg",
+          "assets/f42f2695ddfbb07d01.svg",
+          "assets/aac72e7fb8108ca121.svg",
+          "assets/e35704f71186b1ba12.svg",
+          "assets/df6d83a5932d35589b.svg",
+          "assets/713c046707f14a78a1.svg"
         ],
         "editorial": null
       }
@@ -53103,7 +53671,10 @@
           ]
         },
         "figures": [
-          "assets/b67f2c6eaf9f337303.svg"
+          "assets/b67f2c6eaf9f337303.svg",
+          "assets/647ae90092df807576.svg",
+          "assets/06189b93e30ea43fc3.svg",
+          "assets/bc55e7dab023e1c994.svg"
         ],
         "editorial": null
       }
@@ -53159,7 +53730,10 @@
           ]
         },
         "figures": [
-          "assets/2dd1d56dac4d414afb.svg"
+          "assets/2dd1d56dac4d414afb.svg",
+          "assets/6858d551a778b8b83b.svg",
+          "assets/1041669ac461253927.svg",
+          "assets/b7da027e788e2f4406.svg"
         ],
         "editorial": null
       }
@@ -53211,7 +53785,11 @@
           ]
         },
         "figures": [
-          "assets/8d990216fb996e5de3.svg"
+          "assets/8d990216fb996e5de3.svg",
+          "assets/a2aa37989b3e8e293c.svg",
+          "assets/508c726ca101180605.svg",
+          "assets/77ad2534bbff0b9375.svg",
+          "assets/87cf034ed51ec9f43a.svg"
         ],
         "editorial": null
       }
@@ -53264,7 +53842,13 @@
           ]
         },
         "figures": [
-          "assets/20738a5989aaba5601.svg"
+          "assets/20738a5989aaba5601.svg",
+          "assets/f2e5cb39ab65e5761d.svg",
+          "assets/0318ed71c8c447f7ac.svg",
+          "assets/9c1a37e2f78f6aaca4.svg",
+          "assets/3f3005547d2eef2d64.svg",
+          "assets/c57206596c7465005d.svg",
+          "assets/e6aed17eca732469c5.svg"
         ],
         "editorial": null
       }
@@ -53315,7 +53899,9 @@
           ]
         },
         "figures": [
-          "assets/d87d1aa949968d8053.svg"
+          "assets/d87d1aa949968d8053.svg",
+          "assets/dd0d5712acc7d5faab.svg",
+          "assets/6c39d94dd6d704cf3c.svg"
         ],
         "editorial": null
       }
@@ -53342,6 +53928,9 @@
         "teaching": {},
         "figures": [
           "assets/643c5b0ea5f49f4078.svg",
+          "assets/df9a9d8f45ab6e472d.svg",
+          "assets/b36d1cc04ea0ad19eb.svg",
+          "assets/8addc88bebf03e6617.svg",
           "assets/0adb22c86b7ce4aa26.svg",
           "assets/021e876eff46d38a0b.svg",
           "assets/e264aa886152e8248c.svg",
@@ -53401,6 +53990,8 @@
         "teaching": {},
         "figures": [
           "assets/0bee75dca5c941577b.svg",
+          "assets/cea9fd6bb787826b72.svg",
+          "assets/193541482a9507b556.svg",
           "assets/88288ba43c98a9a157.svg",
           "assets/6df839d6fb5ba06445.svg",
           "assets/c031447bb7cc373eef.svg"
@@ -53453,7 +54044,7 @@
           ]
         },
         "figures": [
-          "assets/e7b96bca49b8866da4.svg"
+          "assets/answerba9c211fdbde032c3b.svg"
         ],
         "markingPoints": [
           {
@@ -53466,7 +54057,14 @@
             "label": "英文系统名",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            1
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53485,7 +54083,7 @@
           ]
         },
         "figures": [
-          "assets/6f063fbd047ae5986d.svg"
+          "assets/answer267478e7737582d461.svg"
         ],
         "markingPoints": [
           {
@@ -53503,7 +54101,14 @@
             "label": "固定一个异构体时有6个非对映体",
             "points": 0.75
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            2
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53522,7 +54127,7 @@
           ]
         },
         "figures": [
-          "assets/7012ea7559b619d38b.svg"
+          "assets/answerc68575a9033160b9b5.svg"
         ],
         "markingPoints": [
           {
@@ -53540,7 +54145,14 @@
             "label": "620 cm⁻¹为端炔C—H弯曲",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            3
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53559,7 +54171,7 @@
           ]
         },
         "figures": [
-          "assets/8919d3e22ebe74e4f2.svg"
+          "assets/answerb9d69958e7b3a891a4.svg"
         ],
         "markingPoints": [
           {
@@ -53572,7 +54184,14 @@
             "label": "正确翻转的构型",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            4
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53591,7 +54210,7 @@
           ]
         },
         "figures": [
-          "assets/3840c0d9cb2fcf2480.svg"
+          "assets/answer8e9928850854fccff3.svg"
         ],
         "markingPoints": [
           {
@@ -53604,7 +54223,14 @@
             "label": "醛、酮端点均正确",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            5
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53623,7 +54249,7 @@
           ]
         },
         "figures": [
-          "assets/1d900a9e166c645fd0.svg"
+          "assets/answer06dff007f281e72b2f.svg"
         ],
         "markingPoints": [
           {
@@ -53646,7 +54272,14 @@
             "label": "第二步产物名称",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            6
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53665,7 +54298,7 @@
           ]
         },
         "figures": [
-          "assets/b0b95e32f47697d6b0.svg"
+          "assets/answer574748806cbe21957f.svg"
         ],
         "markingPoints": [
           {
@@ -53678,7 +54311,14 @@
             "label": "羰基位置与苯环双键",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            7
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53697,7 +54337,7 @@
           ]
         },
         "figures": [
-          "assets/1601ef7da56e206e99.svg"
+          "assets/answer21cd008ef8474b5170.svg"
         ],
         "markingPoints": [
           {
@@ -53710,7 +54350,14 @@
             "label": "Fischer空间关系及R构型",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            8
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53729,7 +54376,7 @@
           ]
         },
         "figures": [
-          "assets/641ced3c4ac020bf63.svg"
+          "assets/answer44aaee3ee58aae0c1e.svg"
         ],
         "markingPoints": [
           {
@@ -53737,7 +54384,14 @@
             "label": "按题意写俗名糠醛；仅正确系统名时可酌给1分，两者不累计",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            9
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53756,7 +54410,7 @@
           ]
         },
         "figures": [
-          "assets/5703e6b1d9f404c3e4.svg"
+          "assets/answera534735ec3cf91b780.svg"
         ],
         "markingPoints": [
           {
@@ -53764,7 +54418,14 @@
             "label": "一套完整、适用的羰基脱氧条件；Zn(Hg)/HCl或肼/强碱加热均可",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            10
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53781,7 +54442,7 @@
           "参考采分点": "烯醇1分；戊醛1分。"
         },
         "figures": [
-          "assets/0659c83f8de1b1b73a.svg"
+          "assets/answer44b3c55e0d32a81be0.svg"
         ],
         "markingPoints": [
           {
@@ -53794,7 +54455,14 @@
             "label": "戊醛结构",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            11
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53811,7 +54479,7 @@
           "参考采分点": "对甲苯胺0.5分；重氮盐0.5分；对位偶氮产物1分。"
         },
         "figures": [
-          "assets/0279241a3bee862edf.svg"
+          "assets/answerd26139eda57fca8ece.svg"
         ],
         "markingPoints": [
           {
@@ -53829,7 +54497,14 @@
             "label": "对位偶氮产物",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            12
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53846,7 +54521,7 @@
           "参考采分点": "C1/C2双苯腙1分；C3—C5及CH2OH正确保留1分。"
         },
         "figures": [
-          "assets/1376c6dd9a4ba8ef9d.svg"
+          "assets/answer505809a1f0f2464110.svg"
         ],
         "markingPoints": [
           {
@@ -53859,7 +54534,14 @@
             "label": "C3—C5及CH2OH正确保留",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            13
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53876,7 +54558,7 @@
           "参考采分点": "PhCH2—N连接1分；N上甲基及一个H正确1分。"
         },
         "figures": [
-          "assets/1aeb2ab6037ea03160.svg"
+          "assets/answeraf82ef48f305a60c7b.svg"
         ],
         "markingPoints": [
           {
@@ -53889,7 +54571,14 @@
             "label": "N上甲基及一个H",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            14
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53906,7 +54595,7 @@
           "参考采分点": "N-Cbz正确连接1分；原侧链和羧酸正确1分。"
         },
         "figures": [
-          "assets/f756c69f3aeaa35f5d.svg"
+          "assets/answercc2b2c1d6477157eed.svg"
         ],
         "markingPoints": [
           {
@@ -53919,7 +54608,14 @@
             "label": "原侧链和羧酸正确保留",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            15
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53938,8 +54634,15 @@
           ]
         },
         "figures": [
-          "assets/9bc072bceb999db822.svg"
-        ]
+          "assets/answer4d5124199e44f5af4c.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            16
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53958,8 +54661,15 @@
           ]
         },
         "figures": [
-          "assets/75a88dd0d731a29be7.svg"
-        ]
+          "assets/answer432bdac79b9a2f87aa.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            17
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53978,8 +54688,15 @@
           ]
         },
         "figures": [
-          "assets/09eeec44ad55bec3c5.svg"
-        ]
+          "assets/answera34920bc977047b29e.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            18
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -53998,8 +54715,15 @@
           ]
         },
         "figures": [
-          "assets/1dbae6c6b824b45043.svg"
-        ]
+          "assets/answere2b56ff44be19efff4.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            19
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54018,8 +54742,15 @@
           ]
         },
         "figures": [
-          "assets/96a55b7ecca16323a9.svg"
-        ]
+          "assets/answer9983ee24e898368618.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            20
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54038,8 +54769,15 @@
           ]
         },
         "figures": [
-          "assets/7b3daab41884b640f4.svg"
-        ]
+          "assets/answer7874f3a46fc7e83589.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            21
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54058,8 +54796,15 @@
           ]
         },
         "figures": [
-          "assets/9e563d13f6b3592d4a.svg"
-        ]
+          "assets/answer3f54ba110ca3ea28aa.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            22
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54078,8 +54823,15 @@
           ]
         },
         "figures": [
-          "assets/f201c13956b0006b69.svg"
-        ]
+          "assets/answer8568b986b9932ce6cd.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            23
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54098,8 +54850,15 @@
           ]
         },
         "figures": [
-          "assets/eed571f3f69a04009e.svg"
-        ]
+          "assets/answera794711ac6fe0f9413.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            24
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54118,8 +54877,15 @@
           ]
         },
         "figures": [
-          "assets/154386af199ceb626c.svg"
-        ]
+          "assets/answerd72d3b12bf12354af6.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            25
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54138,8 +54904,15 @@
           ]
         },
         "figures": [
-          "assets/f1a1fa5739e37c33f1.svg"
-        ]
+          "assets/answerfd7d6bd32f272dc6a9.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            26
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54158,8 +54931,15 @@
           ]
         },
         "figures": [
-          "assets/cc4491190f6a1d4e96.svg"
-        ]
+          "assets/answere0d25fedb608e24db5.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            27
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54179,7 +54959,7 @@
           ]
         },
         "figures": [
-          "assets/fbf9b2a3d80d5506c2.svg"
+          "assets/answer79825eedcbf1982ab8.svg"
         ],
         "markingPoints": [
           {
@@ -54202,7 +54982,14 @@
             "label": "完整结构",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            28
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54222,7 +55009,7 @@
           ]
         },
         "figures": [
-          "assets/9fc7330bbc95d2bc98.svg"
+          "assets/answercdec703b1ab28b0165.svg"
         ],
         "markingPoints": [
           {
@@ -54250,7 +55037,14 @@
             "label": "谱峰归属",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            29
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54270,7 +55064,7 @@
           ]
         },
         "figures": [
-          "assets/b6a4f358746744c28b.svg"
+          "assets/answer504fbbbccafa4953f1.svg"
         ],
         "markingPoints": [
           {
@@ -54308,7 +55102,14 @@
             "label": "两种裂解的计量回代",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            30
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54328,7 +55129,7 @@
           ]
         },
         "figures": [
-          "assets/cb7918531360f70f58.svg"
+          "assets/answereff1712fdfc5480f19.svg"
         ],
         "markingPoints": [
           {
@@ -54356,7 +55157,14 @@
             "label": "逐峰归属",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            31
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54376,7 +55184,7 @@
           ]
         },
         "figures": [
-          "assets/868cb0ae566ec76556.svg"
+          "assets/answerff9e7097ad4c62667d.svg"
         ],
         "markingPoints": [
           {
@@ -54399,7 +55207,14 @@
             "label": "原子守恒",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            32
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54418,7 +55233,7 @@
           ]
         },
         "figures": [
-          "assets/7d9b5182dd0bd27a47.svg"
+          "assets/answerd09bf962cdfb169b8e.svg"
         ],
         "markingPoints": [
           {
@@ -54436,7 +55251,14 @@
             "label": "峰谷与周期",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            33
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54455,7 +55277,7 @@
           ]
         },
         "figures": [
-          "assets/ed08b51c3f6d8cb956.svg"
+          "assets/answer2aaac5ec1e78f7b76b.svg"
         ],
         "markingPoints": [
           {
@@ -54473,7 +55295,14 @@
             "label": "波数关系",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            34
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54492,7 +55321,7 @@
           ]
         },
         "figures": [
-          "assets/936095926f6eebf731.svg"
+          "assets/answerce699c5df98f2f558b.svg"
         ],
         "markingPoints": [
           {
@@ -54510,7 +55339,14 @@
             "label": "速率式与量纲",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            35
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54531,7 +55367,7 @@
           ]
         },
         "figures": [
-          "assets/0c599144316cc7db79.svg"
+          "assets/answer578817b31dc600274f.svg"
         ],
         "markingPoints": [
           {
@@ -54549,7 +55385,14 @@
             "label": "两步的电子箭头与价态；按原建议分步酌评",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            36
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54570,8 +55413,8 @@
           ]
         },
         "figures": [
-          "assets/801695168c676bf709.svg",
-          "assets/b1417dc23d6f8a8d7c.svg"
+          "assets/answerf588234aca22ef9e54.svg",
+          "assets/answere8a761b4b95f385c60.svg"
         ],
         "markingPoints": [
           {
@@ -54599,7 +55442,15 @@
             "label": "立体关系",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            37,
+            38
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54620,8 +55471,8 @@
           ]
         },
         "figures": [
-          "assets/4e76be39ecba828a8e.svg",
-          "assets/4a0c74b88eac33cfff.svg"
+          "assets/answer24637fa96ffbb18df2.svg",
+          "assets/answer8e7d8ddf4d7c0f13e3.svg"
         ],
         "markingPoints": [
           {
@@ -54639,7 +55490,15 @@
             "label": "离Cl及产物",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            39,
+            40
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54658,7 +55517,7 @@
           ]
         },
         "figures": [
-          "assets/3f86b61babffd6f535.svg"
+          "assets/answer2e0c19b40765675074.svg"
         ],
         "markingPoints": [
           {
@@ -54676,7 +55535,14 @@
             "label": "水合并互变成酮",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            41
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54695,7 +55561,7 @@
           ]
         },
         "figures": [
-          "assets/8a22b7bca2bbd93ec0.svg"
+          "assets/answer2278b1e54068a5bfb5.svg"
         ],
         "markingPoints": [
           {
@@ -54718,7 +55584,14 @@
             "label": "官能团兼容性说明",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            42
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54737,8 +55610,7 @@
           ]
         },
         "figures": [
-          "assets/c146f0cd826465b25a.svg",
-          "assets/b867d468590629ef18.svg"
+          "assets/answer5317d387faafb2fdb6.svg"
         ],
         "markingPoints": [
           {
@@ -54761,7 +55633,14 @@
             "label": "末步叔醇",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            43
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54780,7 +55659,7 @@
           ]
         },
         "figures": [
-          "assets/210b5073f890187887.svg"
+          "assets/answer9407eadf721abf15c4.svg"
         ],
         "markingPoints": [
           {
@@ -54793,7 +55672,14 @@
             "label": "Zn(Hg)/HCl条件及正丁苯",
             "points": 4.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            44
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54812,8 +55698,7 @@
           ]
         },
         "figures": [
-          "assets/5c8ea8abf9b5c14f2a.svg",
-          "assets/5e69841e18d7435289.svg"
+          "assets/answerff80ca6e70a6efb548.svg"
         ],
         "markingPoints": [
           {
@@ -54831,7 +55716,14 @@
             "label": "选择性半氢化",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-A-solutions.pdf",
+          "pages": [
+            45
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54850,7 +55742,7 @@
           ]
         },
         "figures": [
-          "assets/8a23ebef5b4dda2c64.svg"
+          "assets/answer3380b0198f822914e1.svg"
         ],
         "markingPoints": [
           {
@@ -54863,7 +55755,14 @@
             "label": "cis及英文完整",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            1
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54882,7 +55781,7 @@
           ]
         },
         "figures": [
-          "assets/afd0a54a7d028029a5.svg"
+          "assets/answer2922ca662aa03fce8d.svg"
         ],
         "markingPoints": [
           {
@@ -54895,7 +55794,14 @@
             "label": "两个Me位置",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            2
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54914,7 +55820,7 @@
           ]
         },
         "figures": [
-          "assets/fe97688da49c2b24a8.svg"
+          "assets/answerde5d414192ecb08ce2.svg"
         ],
         "markingPoints": [
           {
@@ -54927,7 +55833,14 @@
             "label": "三个乙酯与Me位置完整",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            3
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54946,8 +55859,7 @@
           ]
         },
         "figures": [
-          "assets/568cb6a0208bb29787.svg",
-          "assets/ac18f8313cce805330.svg"
+          "assets/answerd70a5eb2c0d652b75c.svg"
         ],
         "markingPoints": [
           {
@@ -54965,7 +55877,14 @@
             "label": "最终酮",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            4
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -54984,7 +55903,7 @@
           ]
         },
         "figures": [
-          "assets/d636a898b14647ec6e.svg"
+          "assets/answera5f64b173574c900f0.svg"
         ],
         "markingPoints": [
           {
@@ -54997,7 +55916,14 @@
             "label": "双键与羰基接位的完整命名",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            5
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55016,7 +55942,7 @@
           ]
         },
         "figures": [
-          "assets/65ab9954068e708298.svg"
+          "assets/answer995082f9a3521065a7.svg"
         ],
         "markingPoints": [
           {
@@ -55029,7 +55955,14 @@
             "label": "N正电及Cl负离子",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            6
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55048,7 +55981,7 @@
           ]
         },
         "figures": [
-          "assets/ee37965ad30e3bf341.svg"
+          "assets/answerf8ad70036b3fbdbf90.svg"
         ],
         "markingPoints": [
           {
@@ -55061,7 +55994,14 @@
             "label": "硝基正确价态",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            7
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55080,7 +56020,7 @@
           ]
         },
         "figures": [
-          "assets/240e073699140ec33c.svg"
+          "assets/answerc450b3d65678082d74.svg"
         ],
         "markingPoints": [
           {
@@ -55093,7 +56033,14 @@
             "label": "2,2-二甲基定位",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            8
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55112,7 +56059,7 @@
           ]
         },
         "figures": [
-          "assets/11a332eea2be2c9832.svg"
+          "assets/answer5168234a7ef5a9449d.svg"
         ],
         "markingPoints": [
           {
@@ -55125,7 +56072,14 @@
             "label": "2位取代",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            9
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55144,7 +56098,7 @@
           ]
         },
         "figures": [
-          "assets/1db7c2e4a858624a97.svg"
+          "assets/answerccb3cc228d68ef6e27.svg"
         ],
         "markingPoints": [
           {
@@ -55152,7 +56106,14 @@
             "label": "可行的过氧酸氧化剂；不限定为本书一种",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            10
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55171,7 +56132,7 @@
           ]
         },
         "figures": [
-          "assets/5521103f7b397a206b.svg"
+          "assets/answeredb08e450a4729c6f2.svg"
         ],
         "markingPoints": [
           {
@@ -55184,7 +56145,14 @@
             "label": "实际画出双平伏优势椅式",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            11
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55201,7 +56169,7 @@
           "参考采分点": "萘-2-磺酸主骨架1分；5-Me与8-Et位次均对1分。"
         },
         "figures": [
-          "assets/a8dfc9087d060331e1.svg"
+          "assets/answer2928e34479cf8ccea8.svg"
         ],
         "markingPoints": [
           {
@@ -55214,7 +56182,14 @@
             "label": "5-Me与8-Et位次均正确",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            12
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55231,7 +56206,7 @@
           "参考采分点": "苯甲酸0.5分；苯甲酰胺0.5分；苯胺1分。"
         },
         "figures": [
-          "assets/4ca490b8a800678f92.svg"
+          "assets/answer248c2074d1f90698a6.svg"
         ],
         "markingPoints": [
           {
@@ -55249,7 +56224,14 @@
             "label": "苯胺",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            13
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55266,7 +56248,7 @@
           "参考采分点": "α有机锌酯1分；正确脱水烯酯1分。"
         },
         "figures": [
-          "assets/03ffc4235f9d55662b.svg"
+          "assets/answer085eda5ddabc0f4cd5.svg"
         ],
         "markingPoints": [
           {
@@ -55279,7 +56261,14 @@
             "label": "正确脱水烯酯",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            14
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55296,7 +56285,7 @@
           "参考采分点": "9/10成两新键并保留外苯环1分；顺式酸酐桥和两个羰基正确1分。"
         },
         "figures": [
-          "assets/d8af33c6646cc0e6d8.svg"
+          "assets/answer4b70815a4cd18c5574.svg"
         ],
         "markingPoints": [
           {
@@ -55309,7 +56298,14 @@
             "label": "顺式酸酐桥及两个羰基",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            15
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55328,8 +56324,15 @@
           ]
         },
         "figures": [
-          "assets/d2aaaa47338048fb07.svg"
-        ]
+          "assets/answerde41252613395624e3.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            16
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55348,8 +56351,15 @@
           ]
         },
         "figures": [
-          "assets/07193e5231b8c5f705.svg"
-        ]
+          "assets/answer541817093b39fbe77c.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            17
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55368,8 +56378,15 @@
           ]
         },
         "figures": [
-          "assets/fa48e3eadc6c446c1d.svg"
-        ]
+          "assets/answer76be0ab99b52ab679c.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            18
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55388,8 +56405,15 @@
           ]
         },
         "figures": [
-          "assets/44b266454c57c82995.svg"
-        ]
+          "assets/answerc79c9bea776b248545.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            19
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55408,8 +56432,15 @@
           ]
         },
         "figures": [
-          "assets/b7d2ada2bdde84444b.svg"
-        ]
+          "assets/answere75dab13f959389bc8.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            20
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55428,8 +56459,15 @@
           ]
         },
         "figures": [
-          "assets/457a55bdae62feb910.svg"
-        ]
+          "assets/answer899eec22ec8827fad5.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            21
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55448,8 +56486,15 @@
           ]
         },
         "figures": [
-          "assets/4a9e7f96b7ce06c698.svg"
-        ]
+          "assets/answerc8f00cce12cb0b26a5.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            22
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55468,8 +56513,15 @@
           ]
         },
         "figures": [
-          "assets/3cae05701c0c574ea5.svg"
-        ]
+          "assets/answer745e26b9a45bd2b019.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            23
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55488,8 +56540,15 @@
           ]
         },
         "figures": [
-          "assets/b66a8124dd37aa9fb4.svg"
-        ]
+          "assets/answera4b6a2f60c1197dc7f.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            24
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55508,8 +56567,15 @@
           ]
         },
         "figures": [
-          "assets/76b680a6076b735cf5.svg"
-        ]
+          "assets/answere3f3c846a18ed47af2.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            25
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55528,8 +56594,15 @@
           ]
         },
         "figures": [
-          "assets/7fb573c8ec3c76d0ea.svg"
-        ]
+          "assets/answer79df04c3f11ca2881e.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            26
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55548,8 +56621,15 @@
           ]
         },
         "figures": [
-          "assets/fe86f90340bd9d5b70.svg"
-        ]
+          "assets/answerea5f6c812089e53362.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            27
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55569,8 +56649,8 @@
           ]
         },
         "figures": [
-          "assets/19f19038bf0188fcd6.svg",
-          "assets/e48502406748530838.svg"
+          "assets/answer354a0af3a6a1b37c58.svg",
+          "assets/answer437ea3517d07d5fd2b.svg"
         ],
         "markingPoints": [
           {
@@ -55598,7 +56678,15 @@
             "label": "氢化骨架回代",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            28,
+            29
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55618,8 +56706,8 @@
           ]
         },
         "figures": [
-          "assets/1731e9a500ccd269d5.svg",
-          "assets/1cdbe3404978ba016c.svg"
+          "assets/answerc9716c7bcbcfeccf9e.svg",
+          "assets/answer40484fcaf04d65552e.svg"
         ],
         "markingPoints": [
           {
@@ -55642,7 +56730,15 @@
             "label": "各组谱峰归属与积分",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            30,
+            31
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55661,8 +56757,8 @@
           ]
         },
         "figures": [
-          "assets/856f797ab7ae71b19a.svg",
-          "assets/64ea088c8d6340ccba.svg"
+          "assets/answer092ad456c882f6d38b.svg",
+          "assets/answer46ea80a93d7a1d79fa.svg"
         ],
         "markingPoints": [
           {
@@ -55685,7 +56781,15 @@
             "label": "说明两个被切中心未定；或给出可成立成员并说明不唯一",
             "points": 3.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            32,
+            33
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55705,8 +56809,7 @@
           ]
         },
         "figures": [
-          "assets/3265a094009333a058.svg",
-          "assets/70fb552cd7c71c6643.svg"
+          "assets/answer8bfe40e360b752c584.svg"
         ],
         "markingPoints": [
           {
@@ -55734,7 +56837,14 @@
             "label": "完整结构",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            34
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55754,7 +56864,7 @@
           ]
         },
         "figures": [
-          "assets/b1efc3a7dd85abfbf6.svg"
+          "assets/answera4b4ecf4111a639f9a.svg"
         ],
         "markingPoints": [
           {
@@ -55777,7 +56887,14 @@
             "label": "分子式核验",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            35
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55796,7 +56913,7 @@
           ]
         },
         "figures": [
-          "assets/615c59e6157c7e2f38.svg"
+          "assets/answer1bbae4137a328993ff.svg"
         ],
         "markingPoints": [
           {
@@ -55819,7 +56936,14 @@
             "label": "释放张力及条件",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            36
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55838,7 +56962,7 @@
           ]
         },
         "figures": [
-          "assets/deb6a53cc059309555.svg"
+          "assets/answer08b265914592cc645e.svg"
         ],
         "markingPoints": [
           {
@@ -55856,7 +56980,14 @@
             "label": "耦合平衡方向",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            37
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55875,7 +57006,7 @@
           ]
         },
         "figures": [
-          "assets/4b7f5c02665a1b634f.svg"
+          "assets/answer66596240d81aaecf8d.svg"
         ],
         "markingPoints": [
           {
@@ -55893,7 +57024,14 @@
             "label": "二烯结论",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            38
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55914,7 +57052,7 @@
           ]
         },
         "figures": [
-          "assets/1a61c2860192941171.svg"
+          "assets/answerd19525ce508f31fe56.svg"
         ],
         "markingPoints": [
           {
@@ -55932,7 +57070,14 @@
             "label": "真实去质子化及反应类型",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            39
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55953,9 +57098,9 @@
           ]
         },
         "figures": [
-          "assets/608b5c0ba9681849e8.svg",
-          "assets/ab3aa08cae093834c4.svg",
-          "assets/a8c527a12328a65f06.svg"
+          "assets/answerb6c405390dd96bc9ef.svg",
+          "assets/answer1a77ba88fbe5605807.svg",
+          "assets/answercbe9c51e60aff9e0b0.svg"
         ],
         "markingPoints": [
           {
@@ -55973,7 +57118,16 @@
             "label": "催化、可逆、平衡与价态",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            40,
+            41,
+            42
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -55994,8 +57148,8 @@
           ]
         },
         "figures": [
-          "assets/8c88b481b774e53769.svg",
-          "assets/91e943aef9d56cd75e.svg"
+          "assets/answer261c04fe33c4a642ac.svg",
+          "assets/answer355ea4aed841e13349.svg"
         ],
         "markingPoints": [
           {
@@ -56013,7 +57167,15 @@
             "label": "目标骨架、碱再生及全部弯箭",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            43,
+            44
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56032,7 +57194,7 @@
           ]
         },
         "figures": [
-          "assets/036d5d719daeb077e7.svg"
+          "assets/answer577179b968fb4d84a6.svg"
         ],
         "markingPoints": [
           {
@@ -56045,7 +57207,14 @@
             "label": "一次HCl加成及目标连接",
             "points": 4.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            45
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56064,7 +57233,7 @@
           ]
         },
         "figures": [
-          "assets/dbf38a6782e506fd93.svg"
+          "assets/answer0e2f4c145e040b2410.svg"
         ],
         "markingPoints": [
           {
@@ -56082,7 +57251,14 @@
             "label": "第二次消除条件及2-戊炔",
             "points": 4.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            46
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56101,8 +57277,7 @@
           ]
         },
         "figures": [
-          "assets/eaaeb1eae410434199.svg",
-          "assets/7f762c2b2cf44f52c3.svg"
+          "assets/answer966ca4ff5df784f576.svg"
         ],
         "markingPoints": [
           {
@@ -56125,7 +57300,14 @@
             "label": "优选与理由",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            47
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56144,7 +57326,7 @@
           ]
         },
         "figures": [
-          "assets/c5b293d1b199e83a89.svg"
+          "assets/answerc6132b80d0a0ec085b.svg"
         ],
         "markingPoints": [
           {
@@ -56162,7 +57344,14 @@
             "label": "产物盐与酸化",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            48
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56181,8 +57370,7 @@
           ]
         },
         "figures": [
-          "assets/3996d68a4df1741c9e.svg",
-          "assets/4ed9117df5e676a42e.svg"
+          "assets/answerc97158e0ef2e0d67d8.svg"
         ],
         "markingPoints": [
           {
@@ -56200,7 +57388,14 @@
             "label": "正确目标与兼容性",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-B-solutions.pdf",
+          "pages": [
+            49
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56219,7 +57414,7 @@
           ]
         },
         "figures": [
-          "assets/9aacf272192a93da43.svg"
+          "assets/answer64e8ccda564308ec04.svg"
         ],
         "markingPoints": [
           {
@@ -56232,7 +57427,14 @@
             "label": "trans及外消旋",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            1
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56251,7 +57453,7 @@
           ]
         },
         "figures": [
-          "assets/d62a437eeb00795c97.svg"
+          "assets/answer2904a051df6ac5c9c9.svg"
         ],
         "markingPoints": [
           {
@@ -56269,7 +57471,14 @@
             "label": "1,4加成位置",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            2
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56288,7 +57497,7 @@
           ]
         },
         "figures": [
-          "assets/e1027477cba72acf01.svg"
+          "assets/answer6fde54110898a86a70.svg"
         ],
         "markingPoints": [
           {
@@ -56301,7 +57510,14 @@
             "label": "全部官能团及Me数量",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            3
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56320,8 +57536,7 @@
           ]
         },
         "figures": [
-          "assets/1ad8a6174398eebe65.svg",
-          "assets/19d8838264ec956ee6.svg"
+          "assets/answerc59e79c45f9d4b7904.svg"
         ],
         "markingPoints": [
           {
@@ -56334,7 +57549,14 @@
             "label": "原立体关系保持",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            4
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56353,7 +57575,7 @@
           ]
         },
         "figures": [
-          "assets/3724493d6c634754bf.svg"
+          "assets/answer27f5bdabc294db6b86.svg"
         ],
         "markingPoints": [
           {
@@ -56371,7 +57593,14 @@
             "label": "4R",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            5
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56390,7 +57619,7 @@
           ]
         },
         "figures": [
-          "assets/1373f0d001e248dcdb.svg"
+          "assets/answer4d4cf8bb6aa0395d85.svg"
         ],
         "markingPoints": [
           {
@@ -56403,7 +57632,14 @@
             "label": "Cl在正确的三级碳",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            6
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56422,7 +57658,7 @@
           ]
         },
         "figures": [
-          "assets/6699fedb1081ae56c8.svg"
+          "assets/answer81a946265749952d3e.svg"
         ],
         "markingPoints": [
           {
@@ -56435,7 +57671,14 @@
             "label": "四个Me与内双键完整",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            7
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56454,7 +57697,7 @@
           ]
         },
         "figures": [
-          "assets/9e60c7f46376630cfc.svg"
+          "assets/answer79594702db6c71d2fd.svg"
         ],
         "markingPoints": [
           {
@@ -56467,7 +57710,14 @@
             "label": "烯侧链接位与双键位置",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            8
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56486,7 +57736,7 @@
           ]
         },
         "figures": [
-          "assets/9e4c17fee4085cde95.svg"
+          "assets/answercb1b4138e896b08a2a.svg"
         ],
         "markingPoints": [
           {
@@ -56499,7 +57749,14 @@
             "label": "实际画出同面a/e椅式",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            9
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56516,7 +57773,7 @@
           "参考采分点": "母体及取代位1分；E与S各0.5分。"
         },
         "figures": [
-          "assets/24b025658e0aa60930.svg"
+          "assets/answer402009ef4b58a9c885.svg"
         ],
         "markingPoints": [
           {
@@ -56534,7 +57791,14 @@
             "label": "S",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            10
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56551,7 +57815,7 @@
           "参考采分点": "环氧酯1分；2-苯基丙醛1分。"
         },
         "figures": [
-          "assets/03475fc50b9c7952d3.svg"
+          "assets/answer8d2d4eacb41875cd13.svg"
         ],
         "markingPoints": [
           {
@@ -56564,7 +57828,14 @@
             "label": "2-苯基丙醛",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            11
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56581,7 +57852,7 @@
           "参考采分点": "两个桥头与[2.2.1]连接1分；N位置/三键与6C正确1分。"
         },
         "figures": [
-          "assets/17bdd61fe8fe176a0d.svg"
+          "assets/answerac0f5e283b98154819.svg"
         ],
         "markingPoints": [
           {
@@ -56594,7 +57865,14 @@
             "label": "N位置、三键及6C",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            12
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56611,7 +57889,7 @@
           "参考采分点": "四取代中心保留Ph/CN/CO2Et1分；新—CH2CH2CN支链1分。"
         },
         "figures": [
-          "assets/52cdcf66c857e61855.svg"
+          "assets/answeree9cd38741fd3521fa.svg"
         ],
         "markingPoints": [
           {
@@ -56624,7 +57902,14 @@
             "label": "新—CH2CH2CN支链",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            13
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56641,7 +57926,7 @@
           "参考采分点": "羰基位置和7C骨架1分；新键及末端异丙烯基正确1分。"
         },
         "figures": [
-          "assets/70a2c452c936eb85da.svg"
+          "assets/answer4ef945310301e30e57.svg"
         ],
         "markingPoints": [
           {
@@ -56654,7 +57939,14 @@
             "label": "新键与末端异丙烯基",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            14
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56671,7 +57963,7 @@
           "参考采分点": "四个连续空各0.5分，共2分，不删空。"
         },
         "figures": [
-          "assets/ec899fc007eac097bb.svg"
+          "assets/answer7982ff94014f79afb6.svg"
         ],
         "markingPoints": [
           {
@@ -56694,7 +57986,14 @@
             "label": "第四个连续空",
             "points": 0.5
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            15
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56713,8 +58012,15 @@
           ]
         },
         "figures": [
-          "assets/f90f93a505e0d2c9f8.svg"
-        ]
+          "assets/answer10e17bf0097cb558b6.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            16
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56733,8 +58039,15 @@
           ]
         },
         "figures": [
-          "assets/0eb95d9562bdf76e6b.svg"
-        ]
+          "assets/answer3639356da55bd307c4.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            17
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56753,8 +58066,15 @@
           ]
         },
         "figures": [
-          "assets/862706d91266590f66.svg"
-        ]
+          "assets/answer431abe642f11f2e293.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            18
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56773,8 +58093,15 @@
           ]
         },
         "figures": [
-          "assets/330f01ba14fc6ea97c.svg"
-        ]
+          "assets/answer1861bce29c02c4ffe7.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            19
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56793,8 +58120,15 @@
           ]
         },
         "figures": [
-          "assets/0b7a10f7190496ce69.svg"
-        ]
+          "assets/answer9388786fb05bf07f39.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            20
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56813,8 +58147,15 @@
           ]
         },
         "figures": [
-          "assets/dd0ba0e14cd9796dfd.svg"
-        ]
+          "assets/answerb2876d2d02a7ea02d9.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            21
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56833,8 +58174,15 @@
           ]
         },
         "figures": [
-          "assets/86c5590f74f41a2dbc.svg"
-        ]
+          "assets/answer9b8ce1ef4406ae6b8f.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            22
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56853,8 +58201,15 @@
           ]
         },
         "figures": [
-          "assets/b31f59e125c99a3a8f.svg"
-        ]
+          "assets/answer31bbff34fca83984cb.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            23
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56873,8 +58228,15 @@
           ]
         },
         "figures": [
-          "assets/f2bcc6c5cbb5b4fcb7.svg"
-        ]
+          "assets/answer97ddec972e1a41f43f.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            24
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56893,8 +58255,15 @@
           ]
         },
         "figures": [
-          "assets/3a3713f8538cdee28b.svg"
-        ]
+          "assets/answerdeb66b6108573b7af9.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            25
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56913,8 +58282,15 @@
           ]
         },
         "figures": [
-          "assets/5b36d6ba28dfe91b62.svg"
-        ]
+          "assets/answer62304bab8869820fef.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            26
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56933,8 +58309,15 @@
           ]
         },
         "figures": [
-          "assets/2c4ed2db3a2e922f68.svg"
-        ]
+          "assets/answer61cdb0ffe68c751bff.svg"
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            27
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56954,7 +58337,7 @@
           ]
         },
         "figures": [
-          "assets/3cc1d4088c20ea0302.svg"
+          "assets/answer4f2f6fb5b3e31951cc.svg"
         ],
         "markingPoints": [
           {
@@ -56977,7 +58360,14 @@
             "label": "氢数核对",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            28
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -56997,8 +58387,8 @@
           ]
         },
         "figures": [
-          "assets/8abe87706e544e9d53.svg",
-          "assets/3bf0ac1f55d0bfede5.svg"
+          "assets/answera2abe131ce224a4553.svg",
+          "assets/answer84d7ee13404f177632.svg"
         ],
         "markingPoints": [
           {
@@ -57031,7 +58421,15 @@
             "label": "裂解计量",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            29,
+            30
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57051,9 +58449,8 @@
           ]
         },
         "figures": [
-          "assets/bcea5e3e9474de78e0.svg",
-          "assets/17d58cffa010e038a9.svg",
-          "assets/e185dab5f645fbe007.svg"
+          "assets/answerac9940e1c95da75247.svg",
+          "assets/answer7711b0eee9b0c6da40.svg"
         ],
         "markingPoints": [
           {
@@ -57086,7 +58483,15 @@
             "label": "原子守恒；不要求未给定的绝对构型",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            31,
+            32
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57106,7 +58511,7 @@
           ]
         },
         "figures": [
-          "assets/051db9f3e92eb70bef.svg"
+          "assets/answera92d9b89b2f895985f.svg"
         ],
         "markingPoints": [
           {
@@ -57129,7 +58534,14 @@
             "label": "非等价CH2与多重耦合",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            33
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57149,7 +58561,7 @@
           ]
         },
         "figures": [
-          "assets/7f15056ebf11f15390.svg"
+          "assets/answer7ebb4ed8504c4e4a3a.svg"
         ],
         "markingPoints": [
           {
@@ -57172,7 +58584,14 @@
             "label": "对称性及降解回代",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            34
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57191,7 +58610,7 @@
           ]
         },
         "figures": [
-          "assets/bff866a67ae6772c16.svg"
+          "assets/answera5990f530f3571ee72.svg"
         ],
         "markingPoints": [
           {
@@ -57214,7 +58633,14 @@
             "label": "翻椅限制",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            35
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57233,7 +58659,7 @@
           ]
         },
         "figures": [
-          "assets/ceb64ac694e576d538.svg"
+          "assets/answerc69fdced56feb8a501.svg"
         ],
         "markingPoints": [
           {
@@ -57251,7 +58677,14 @@
             "label": "结论与模型边界",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            36
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57270,7 +58703,7 @@
           ]
         },
         "figures": [
-          "assets/02b43357635c424794.svg"
+          "assets/answer55f8e8200b9cd6716a.svg"
         ],
         "markingPoints": [
           {
@@ -57288,7 +58721,14 @@
             "label": "电荷与定位解释",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            37
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57309,8 +58749,8 @@
           ]
         },
         "figures": [
-          "assets/b3a9278ec86c9e171a.svg",
-          "assets/25d5968c4903ee1902.svg"
+          "assets/answer955ddb35fbef52d4a1.svg",
+          "assets/answer7c7f7610d05361fd8b.svg"
         ],
         "markingPoints": [
           {
@@ -57328,7 +58768,15 @@
             "label": "区域、anti及对映关系",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            38,
+            39
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57349,8 +58797,8 @@
           ]
         },
         "figures": [
-          "assets/e2f3c5f4b58b10e772.svg",
-          "assets/a064f10c035fa0be4e.svg"
+          "assets/answerb9276b1997c44f1431.svg",
+          "assets/answer98143287853cda4dd1.svg"
         ],
         "markingPoints": [
           {
@@ -57368,7 +58816,15 @@
             "label": "anti产物镜像与原条件",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            40,
+            41
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57389,8 +58845,8 @@
           ]
         },
         "figures": [
-          "assets/bda445a7f82b6a6e0a.svg",
-          "assets/0c972f72ea3ff613bf.svg"
+          "assets/answer96eeffceb66932e2b3.svg",
+          "assets/answera93274992636db6e60.svg"
         ],
         "markingPoints": [
           {
@@ -57408,7 +58864,15 @@
             "label": "E1cb、目标及箭头",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            42,
+            43
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57427,8 +58891,7 @@
           ]
         },
         "figures": [
-          "assets/4c3726ea1d09e2a869.svg",
-          "assets/58643be8cca4b0900b.svg"
+          "assets/answer55748687f6fd9dc331.svg"
         ],
         "markingPoints": [
           {
@@ -57446,7 +58909,14 @@
             "label": "正确偶联及二炔",
             "points": 3.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            44
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57465,8 +58935,7 @@
           ]
         },
         "figures": [
-          "assets/8fc1b0ec77f3fc6a05.svg",
-          "assets/535de3ae306ffa29b0.svg"
+          "assets/answer1bc0de456065ed3b59.svg"
         ],
         "markingPoints": [
           {
@@ -57484,7 +58953,14 @@
             "label": "氢硼氧化成醛",
             "points": 3.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            45
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57503,8 +58979,7 @@
           ]
         },
         "figures": [
-          "assets/e2c9ec2e4ba356cd2c.svg",
-          "assets/c684fa26d87e5cc42b.svg"
+          "assets/answera06e34e27c109f2cb0.svg"
         ],
         "markingPoints": [
           {
@@ -57527,7 +59002,14 @@
             "label": "最终位置",
             "points": 1.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            46
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57546,8 +59028,7 @@
           ]
         },
         "figures": [
-          "assets/2deaa8540ca4802239.svg",
-          "assets/e35a377ed60725ac53.svg"
+          "assets/answer3e09644227af199187.svg"
         ],
         "markingPoints": [
           {
@@ -57565,7 +59046,14 @@
             "label": "选择性酮还原",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            47
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,
@@ -57584,8 +59072,8 @@
           ]
         },
         "figures": [
-          "assets/e1c42541de107548d5.svg",
-          "assets/533a60fc7069acc8bf.svg"
+          "assets/answer0d37560889d1920647.svg",
+          "assets/answerfa2e39f8cae57f77fa.svg"
         ],
         "markingPoints": [
           {
@@ -57613,7 +59101,15 @@
             "label": "选择性、原料限制及优劣比较",
             "points": 2.0
           }
-        ]
+        ],
+        "completeSolutionSource": {
+          "pdf": "papers/mock-C-solutions.pdf",
+          "pages": [
+            48,
+            49
+          ],
+          "nativeVector": true
+        }
       }
     ],
     "missing": false,

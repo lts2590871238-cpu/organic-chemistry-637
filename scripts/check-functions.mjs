@@ -69,4 +69,27 @@ check('2022/2023成绩仅显示已核110/146部分，未知不NaN或伪精确150
  }
 })
 
+check('全部1287小问完整解析可渲染，修订教学和每张续图均进入DOM',()=>{
+ const React=require('react'),{renderToStaticMarkup}=require('react-dom/server'),Unit=moduleAt(root+'/src/components/AnswerUnit.tsx').default,errors=[];let units=0,edited=0,images=0
+ for(const q of qs){
+  assert.deepEqual(answers[q.id].units.map(u=>u.id).sort(),[...q.unitIds].sort(),q.id)
+  for(const u of answers[q.id].units){
+   const html=renderToStaticMarkup(React.createElement(Unit,{unit:u,qid:q.id,context:'answer-restoration-test'}));units++
+   assert.equal((html.match(/class="vector-trigger"/g)||[]).length,u.figures.length,u.id);images+=u.figures.length
+   if(u.editorial){edited++;assert(html.includes('明确修订版：答案与完整讲解'),u.id);for(const title of Object.keys(u.editorial.teaching))assert(html.includes(title),u.id+title)}
+   if(html.includes('katex-error'))errors.push(u.id)
+   assert(u.answer||u.editorial?.answer||u.figures.length,u.id)
+  }
+ }
+ fs.writeFileSync(root+'/audit/ANSWER_RENDER_CHECKS.json',JSON.stringify({at:new Date().toISOString(),units,edited,images,katexErrors:errors,note:'完整源字段渲染与资源检查，非新增化学终验。'},null,2))
+ assert.equal(units,1287);assert.equal(edited,169);assert.deepEqual(errors,[])
+})
+check('三卷129题全部原生解析页接入，跨页机理没有只取第一页',()=>{
+ const audit=JSON.parse(fs.readFileSync(root+'/audit/ANSWER_PAGE_RESTORATION.json','utf8'));assert.equal(audit.questions,129);assert.equal(audit.multi_page_questions,13);assert.equal(audit.native_svg_pages,143)
+ for(const row of audit.records){const u=answers[row.id].units[0];assert.equal(u.figures.length,row.pages.length,row.id);for(const figure of u.figures){const svg=fs.readFileSync(root+'/public/'+figure,'utf8');assert(svg.includes('<svg'));assert(!svg.includes('<image'))}}
+ const source=JSON.parse(fs.readFileSync(root+'/audit/ANSWER_SOURCE_RESTORATION.json','utf8'));assert.deepEqual(source.issues,[])
+ const claisen=answers['2004-S02-Q03'].units[0];assert(claisen.figures.length>=5);assert(claisen.derivation.length>=5)
+ assert.equal(answers['2006-S02-Q02'].units[0].figures.length,3,'半频哪醇扩环必须包含质子化、迁移/成羰基、去质子化三图')
+ for(const row of source.records){assert.deepEqual(row.text_differences,[],row.id);const unit=answers[row.parent].units.find(u=>u.id===row.id);assert.deepEqual(unit.figures,row.after,row.id+' 后续图不完整')}
+})
 fs.writeFileSync(root+'/audit/FUNCTION_CHECKS.json',JSON.stringify({at:new Date().toISOString(),checks:results,browser_visual_verified:false,note:'真实数据、应用函数及服务端组件渲染验证；不冒充桌面/手机浏览器交互实测。'},null,2));console.log(JSON.stringify(results))

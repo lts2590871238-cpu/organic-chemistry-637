@@ -1,0 +1,28 @@
+{
+  "at": "2026-10-25T23:08:14.563384+08:00",
+  "parents": 884,
+  "units": 1287,
+  "research": {
+    "units": 1158,
+    "compared_with_round2_or_3": 1158,
+    "editorial_teaching_restored_to_renderer": 169,
+    "units_with_figure_changes": 188,
+    "mechanism_units_with_figure_changes": 44
+  },
+  "mock_questions": 129,
+  "mock_native_pages": 143,
+  "mock_multi_page_questions": 13,
+  "function_checks": 25,
+  "katex_errors": [],
+  "source_issues": [],
+  "unrelated_data_hashes_unchanged": true,
+  "answer_text_and_marking_unchanged": true,
+  "browser_verified": [
+    "2004-S02-Q03：五步讲解、五图与末步酸化可放大",
+    "2004-S01-Q02-P06：修订版全部教学正文可见，原候选独立折叠",
+    "C-S05-Q03：两页完整机理，末页3/4/5步和目标产物可辨；移除多余下节标题"
+  ],
+  "chemical_final_acceptance_changed": false,
+  "build": "passed",
+  "lint": "passed"
+}

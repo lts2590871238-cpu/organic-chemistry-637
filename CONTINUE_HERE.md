@@ -1,3 +1,7 @@
+Active GitHub Desktop repository: D:/桌面/organic-chemistry-637
+Updated 2026-10-25T23:48:26.893185+08:00
+All 1287 answer units synchronized; example 2006-S02-Q02 now has all three native mechanism figures. 25 checks/build passed. See audit/ANSWER_REPOSITORY_SYNC.json. Do not manually copy stale answer data back. No remote commit/push performed.
+
 # 全站答案漏接修复完成
 
 2026-10-25T23:08:14.563384+08:00
